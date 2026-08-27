@@ -1452,9 +1452,9 @@
     }
   },
   "artifacts": {
-    "best_model": "/Users/macbook/Documents/projet/Orient'IA/artifacts/models/best_model.joblib",
-    "confusion_matrix": "/Users/macbook/Documents/projet/Orient'IA/artifacts/metrics/confusion_matrix.png",
-    "eda": "/Users/macbook/Documents/projet/Orient'IA/artifacts/metrics/eda_summary.json"
+    "best_model": "/home/makounda/Documents/orient-ia/artifacts/models/best_model.joblib",
+    "confusion_matrix": "/home/makounda/Documents/orient-ia/artifacts/metrics/confusion_matrix.png",
+    "eda": "/home/makounda/Documents/orient-ia/artifacts/metrics/eda_summary.json"
   },
   "limits": [
     "Entraînement majoritairement sur données synthétiques dérivées du corpus : risque de sur-ajustement aux centroïdes.",

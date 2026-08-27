@@ -99,3 +99,5 @@ Orient'IA/
   artifacts/{models,metrics,rag,traces,evaluation}/
   notebooks/
 ```
+
+Lien Video de presentation : https://www.loom.com/share/20245b3462044b2c98affb53f3aade55

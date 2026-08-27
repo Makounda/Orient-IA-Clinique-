@@ -1,27 +1,5 @@
 [
   {
-    "source_id": "corpus_ispm_note_v1",
-    "titre": "Notes corpus pédagogique ISPM (corpusISPMNote)",
-    "origine_ou_url": "https://ispm-edu.com/publications.php",
-    "origine_locale": "data/raw/corpus/corpusISPMNote.txt",
-    "date_consultation": "2026-08-27",
-    "statut": "institutionnel_compile",
-    "donnees_extraites": [
-      "mentions et parcours ISPM",
-      "matières principales par parcours",
-      "détail matières/compétences/prérequis/débouchés (surtout IGGLIA)",
-      "passerelles IGGLIA ↔ ISAIA/ESIIA/IMTICIA",
-      "niveaux Licence / Ingénieur / Doctorat"
-    ],
-    "limites_incertitudes": [
-      "Compilation manuelle ; détail inégal selon les parcours",
-      "ICMP peu documenté dans la note",
-      "Ne pas confondre avec une maquette officielle complète"
-    ],
-    "n_chunks": 38,
-    "n_matieres_detaillees": 21
-  },
-  {
     "source_id": "corpus_debouche_v1",
     "titre": "Débouchés ISPM par parcours (corpusDebauche)",
     "origine_ou_url": "https://ispm-edu.com/publications.php",
@@ -38,5 +16,27 @@
     ],
     "n_parcours": 16,
     "n_chunks_debouches": 115
+  },
+  {
+    "source_id": "corpus_ispm_note_v1",
+    "titre": "Notes corpus pédagogique ISPM (corpusISPMNote)",
+    "origine_ou_url": "https://ispm-edu.com/publications.php",
+    "origine_locale": "/home/makounda/Documents/orient-ia/data/raw/corpus/corpusISPMNote.txt",
+    "date_consultation": "2026-08-27",
+    "statut": "institutionnel_compile",
+    "donnees_extraites": [
+      "mentions et parcours ISPM",
+      "matières principales par parcours",
+      "détail matières/compétences/prérequis/débouchés (surtout IGGLIA)",
+      "passerelles IGGLIA ↔ ISAIA/ESIIA/IMTICIA",
+      "niveaux Licence / Ingénieur / Doctorat"
+    ],
+    "limites_incertitudes": [
+      "Compilation manuelle ; détail inégal selon les parcours",
+      "ICMP peu documenté dans la note",
+      "Ne pas confondre avec une maquette officielle complète"
+    ],
+    "n_chunks": 38,
+    "n_matieres_detaillees": 21
   }
 ]

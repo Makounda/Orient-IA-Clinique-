@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "orientia"
+version = "0.1.0"
+description = "Orient'IA — données synthétiques, enquête et ML d'orientation ISPM"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "pandas>=2.0.0",
+  "numpy>=1.24.0",
+  "scikit-learn>=1.3.0",
+  "joblib>=1.3.0",
+  "matplotlib>=3.7.0",
+  "streamlit>=1.28.0",
+]
+
+[project.optional-dependencies]
+dev = ["jupyter>=1.0.0", "ipykernel>=6.25.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

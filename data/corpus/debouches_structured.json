@@ -1,0 +1,1083 @@
+{
+  "meta": {
+    "titre": "Débouchés ISPM par parcours",
+    "fichier_source": "/Users/macbook/Documents/projet/Orient'IA/data/raw/corpus/corpusDebauche.txt",
+    "url_publique": "https://ispm-edu.com/publications.php",
+    "date_traitement": "2026-08-27"
+  },
+  "parcours": [
+    {
+      "parcours": "IGGLIA",
+      "categories": {
+        "Développement": [
+          "Développeur logiciel",
+          "Développeur web",
+          "Développeur frontend",
+          "Développeur backend",
+          "Développeur full-stack",
+          "Développeur mobile",
+          "Développeur d'applications métier",
+          "Software Engineer"
+        ],
+        "Systèmes d'information": [
+          "Analyste-programmeur",
+          "Analyste informatique",
+          "Analyste fonctionnel",
+          "Business Analyst",
+          "Consultant en systèmes d'information",
+          "Concepteur de systèmes d'information",
+          "Consultant ERP"
+        ],
+        "Génie logiciel": [
+          "Ingénieur logiciel",
+          "Software Engineer",
+          "Software Architect (avec expérience)",
+          "Tech Lead (avec expérience)",
+          "QA Engineer",
+          "Testeur logiciel"
+        ],
+        "Données / IA": [
+          "Data Analyst",
+          "Data Engineer junior",
+          "AI Developer",
+          "Machine Learning Engineer (avec spécialisation)",
+          "AI Engineer (avec spécialisation)"
+        ],
+        "Gestion de projet": [
+          "Chef de projet informatique",
+          "Scrum Master",
+          "Product Owner",
+          "Responsable informatique"
+        ],
+        "Autres": [
+          "DevOps Engineer (avec spécialisation)",
+          "DevSecOps (avec spécialisation)",
+          "Consultant informatique",
+          "Entrepreneur / créateur de startup"
+        ]
+      },
+      "debouches": [
+        "Développeur logiciel",
+        "Développeur web",
+        "Développeur frontend",
+        "Développeur backend",
+        "Développeur full-stack",
+        "Développeur mobile",
+        "Développeur d'applications métier",
+        "Software Engineer",
+        "Analyste-programmeur",
+        "Analyste informatique",
+        "Analyste fonctionnel",
+        "Business Analyst",
+        "Consultant en systèmes d'information",
+        "Concepteur de systèmes d'information",
+        "Consultant ERP",
+        "Ingénieur logiciel",
+        "Software Architect (avec expérience)",
+        "Tech Lead (avec expérience)",
+        "QA Engineer",
+        "Testeur logiciel",
+        "Data Analyst",
+        "Data Engineer junior",
+        "AI Developer",
+        "Machine Learning Engineer (avec spécialisation)",
+        "AI Engineer (avec spécialisation)",
+        "Chef de projet informatique",
+        "Scrum Master",
+        "Product Owner",
+        "Responsable informatique",
+        "DevOps Engineer (avec spécialisation)",
+        "DevSecOps (avec spécialisation)",
+        "Consultant informatique",
+        "Entrepreneur / créateur de startup"
+      ],
+      "texte_brut": "IGGLIA\n\nInformatique de Gestion, Génie Logiciel et Intelligence Artificielle\n\nL'ISPM indique que cette formation vise notamment la maîtrise des techniques informatiques relatives à la gestion des entreprises.\n\nDébouchés\n\nDéveloppement\n\nDéveloppeur logiciel\nDéveloppeur web\nDéveloppeur frontend\nDéveloppeur backend\nDéveloppeur full-stack\nDéveloppeur mobile\nDéveloppeur d'applications métier\nSoftware Engineer\n\nSystèmes d'information\n\nAnalyste-programmeur\nAnalyste informatique\nAnalyste fonctionnel\nBusiness Analyst\nConsultant en systèmes d'information\nConcepteur de systèmes d'information\nConsultant ERP\n\nGénie logiciel\n\nIngénieur logiciel\nSoftware Engineer\nSoftware Architect (avec expérience)\nTech Lead (avec expérience)\nQA Engineer\nTesteur logiciel\n\nDonnées / IA\n\nData Analyst\nData Engineer junior\nAI Developer\nMachine Learning Engineer (avec spécialisation)\nAI Engineer (avec spécialisation)\n\nGestion de projet\n\nChef de projet informatique\nScrum Master\nProduct Owner\nResponsable informatique\n\nAutres\n\nDevOps Engineer (avec spécialisation)\nDevSecOps (avec spécialisation)\nConsultant informatique\nEntrepreneur / créateur de startup\n\nLes projets présentés par l'ISPM montrent effectivement des réalisations IGGLIA dans les logiciels de gestion, e-commerce, sites web, gestion financière, etc.",
+      "resume": "Débouchés du parcours IGGLIA. Développement : Développeur logiciel, Développeur web, Développeur frontend, Développeur backend, Développeur full-stack, Développeur mobile (+2). Systèmes d'information : Analyste-programmeur, Analyste informatique, Analyste fonctionnel, Business Analyst, Consultant en systèmes d'information, Concepteur de systèmes d'information (+1). Génie logiciel : Ingénieur logiciel, Software Engineer, Software Architect (avec expérience), Tech Lead (avec expérience), QA Engineer, Testeur logiciel. Données / IA : Data Analyst, Data Engineer junior, AI Developer, Machine Learning Engineer (avec spécialisation), AI Engineer (avec spécialisation). Gestion de projet : Chef de projet informatique, Scrum Master, Product Owner, Responsable informatique. Autres : DevOps Engineer (avec spécialisation), DevSecOps (avec spécialisation), Consultant informatique, Entrepreneur / créateur de startup. Total métiers documentés : 33."
+    },
+    {
+      "parcours": "ESIIA",
+      "categories": {
+        "Électronique": [
+          "Ingénieur électronique",
+          "Technicien électronique",
+          "Concepteur électronique",
+          "Ingénieur systèmes électroniques",
+          "Technicien de maintenance électronique"
+        ],
+        "Informatique": [
+          "Ingénieur systèmes",
+          "Administrateur systèmes",
+          "Technicien informatique",
+          "Ingénieur informatique"
+        ],
+        "Télécommunications": [
+          "Ingénieur télécom",
+          "Technicien télécom",
+          "Administrateur réseaux",
+          "Network Engineer"
+        ],
+        "Systèmes embarqués": [
+          "Embedded Systems Engineer",
+          "Développeur systèmes embarqués",
+          "Ingénieur IoT",
+          "IoT Developer",
+          "Ingénieur robotique"
+        ],
+        "IA": [
+          "AI Engineer",
+          "AI Developer",
+          "Machine Learning Engineer (avec spécialisation)"
+        ],
+        "Maintenance": [
+          "Ingénieur maintenance informatique",
+          "Technicien maintenance hardware",
+          "Responsable maintenance informatique"
+        ]
+      },
+      "debouches": [
+        "Ingénieur électronique",
+        "Technicien électronique",
+        "Concepteur électronique",
+        "Ingénieur systèmes électroniques",
+        "Technicien de maintenance électronique",
+        "Ingénieur systèmes",
+        "Administrateur systèmes",
+        "Technicien informatique",
+        "Ingénieur informatique",
+        "Ingénieur télécom",
+        "Technicien télécom",
+        "Administrateur réseaux",
+        "Network Engineer",
+        "Embedded Systems Engineer",
+        "Développeur systèmes embarqués",
+        "Ingénieur IoT",
+        "IoT Developer",
+        "Ingénieur robotique",
+        "AI Engineer",
+        "AI Developer",
+        "Machine Learning Engineer (avec spécialisation)",
+        "Ingénieur maintenance informatique",
+        "Technicien maintenance hardware",
+        "Responsable maintenance informatique"
+      ],
+      "texte_brut": "ESIIA\n\nÉlectronique, Système Informatique et Intelligence Artificielle\n\nCette filière combine électronique, structure des ordinateurs et informatique.\n\nDébouchés\n\nÉlectronique\n\nIngénieur électronique\nTechnicien électronique\nConcepteur électronique\nIngénieur systèmes électroniques\nTechnicien de maintenance électronique\n\nInformatique\n\nIngénieur systèmes\nAdministrateur systèmes\nTechnicien informatique\nIngénieur informatique\n\nTélécommunications\n\nIngénieur télécom\nTechnicien télécom\nAdministrateur réseaux\nNetwork Engineer\n\nSystèmes embarqués\n\nEmbedded Systems Engineer\nDéveloppeur systèmes embarqués\nIngénieur IoT\nIoT Developer\nIngénieur robotique\n\nIA\n\nAI Engineer\nAI Developer\nMachine Learning Engineer (avec spécialisation)\n\nMaintenance\n\nIngénieur maintenance informatique\nTechnicien maintenance hardware\nResponsable maintenance informatique",
+      "resume": "Débouchés du parcours ESIIA. Électronique : Ingénieur électronique, Technicien électronique, Concepteur électronique, Ingénieur systèmes électroniques, Technicien de maintenance électronique. Informatique : Ingénieur systèmes, Administrateur systèmes, Technicien informatique, Ingénieur informatique. Télécommunications : Ingénieur télécom, Technicien télécom, Administrateur réseaux, Network Engineer. Systèmes embarqués : Embedded Systems Engineer, Développeur systèmes embarqués, Ingénieur IoT, IoT Developer, Ingénieur robotique. IA : AI Engineer, AI Developer, Machine Learning Engineer (avec spécialisation). Maintenance : Ingénieur maintenance informatique, Technicien maintenance hardware, Responsable maintenance informatique. Total métiers documentés : 24."
+    },
+    {
+      "parcours": "IMTICIA",
+      "categories": {
+        "Développement": [
+          "Développeur web",
+          "Frontend Developer",
+          "Full-stack Developer",
+          "Développeur multimédia",
+          "Développeur d'applications",
+          "Développeur mobile"
+        ],
+        "Multimédia": [
+          "Développeur multimédia",
+          "Motion Designer",
+          "Infographiste",
+          "Designer multimédia",
+          "Concepteur multimédia",
+          "Technicien audiovisuel"
+        ],
+        "Web / digital": [
+          "Web Designer",
+          "UX/UI Designer",
+          "Digital Content Developer",
+          "Webmaster"
+        ],
+        "Communication numérique": [
+          "Community Manager",
+          "Digital Communication Specialist",
+          "Responsable communication digitale"
+        ],
+        "Technologies": [
+          "Administrateur réseau",
+          "Technicien TIC",
+          "Consultant TIC",
+          "Intégrateur multimédia"
+        ],
+        "IA": [
+          "AI Developer",
+          "AI-assisted content developer",
+          "Data/AI junior (avec spécialisation)"
+        ]
+      },
+      "debouches": [
+        "Développeur web",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Développeur multimédia",
+        "Développeur d'applications",
+        "Développeur mobile",
+        "Motion Designer",
+        "Infographiste",
+        "Designer multimédia",
+        "Concepteur multimédia",
+        "Technicien audiovisuel",
+        "Web Designer",
+        "UX/UI Designer",
+        "Digital Content Developer",
+        "Webmaster",
+        "Community Manager",
+        "Digital Communication Specialist",
+        "Responsable communication digitale",
+        "Administrateur réseau",
+        "Technicien TIC",
+        "Consultant TIC",
+        "Intégrateur multimédia",
+        "AI Developer",
+        "AI-assisted content developer",
+        "Data/AI junior (avec spécialisation)"
+      ],
+      "texte_brut": "IMTICIA\n\nInformatique Multimédia, Technologies de l'Information et de la Communication et Intelligence Artificielle\n\nL'ISPM oriente cette filière vers le multimédia, les nouvelles technologies de l'information et les télécommunications.\n\nDébouchés\n\nDéveloppement\n\nDéveloppeur web\nFrontend Developer\nFull-stack Developer\nDéveloppeur multimédia\nDéveloppeur d'applications\nDéveloppeur mobile\n\nMultimédia\n\nDéveloppeur multimédia\nMotion Designer\nInfographiste\nDesigner multimédia\nConcepteur multimédia\nTechnicien audiovisuel\n\nWeb / digital\n\nWeb Designer\nUX/UI Designer\nDigital Content Developer\nWebmaster\n\nCommunication numérique\n\nCommunity Manager\nDigital Communication Specialist\nResponsable communication digitale\n\nTechnologies\n\nAdministrateur réseau\nTechnicien TIC\nConsultant TIC\nIntégrateur multimédia\n\nIA\n\nAI Developer\nAI-assisted content developer\nData/AI junior (avec spécialisation)",
+      "resume": "Débouchés du parcours IMTICIA. Développement : Développeur web, Frontend Developer, Full-stack Developer, Développeur multimédia, Développeur d'applications, Développeur mobile. Multimédia : Développeur multimédia, Motion Designer, Infographiste, Designer multimédia, Concepteur multimédia, Technicien audiovisuel. Web / digital : Web Designer, UX/UI Designer, Digital Content Developer, Webmaster. Communication numérique : Community Manager, Digital Communication Specialist, Responsable communication digitale. Technologies : Administrateur réseau, Technicien TIC, Consultant TIC, Intégrateur multimédia. IA : AI Developer, AI-assisted content developer, Data/AI junior (avec spécialisation). Total métiers documentés : 25."
+    },
+    {
+      "parcours": "ISAIA",
+      "categories": {
+        "Statistiques": [
+          "Statisticien",
+          "Statisticien d'entreprise",
+          "Analyste statistique",
+          "Chargé d'études statistiques"
+        ],
+        "Data": [
+          "Data Analyst",
+          "Data Scientist (avec spécialisation)",
+          "Data Engineer junior",
+          "Business Intelligence Analyst",
+          "BI Developer"
+        ],
+        "Finance": [
+          "Analyste financier",
+          "Risk Analyst",
+          "Credit Analyst",
+          "Quantitative Analyst junior",
+          "Analyste bancaire"
+        ],
+        "Économie": [
+          "Économiste",
+          "Chargé d'études économiques",
+          "Analyste économique",
+          "Analyste de marché"
+        ],
+        "IA": [
+          "AI Engineer",
+          "Machine Learning Engineer",
+          "Data Scientist",
+          "AI Developer"
+        ],
+        "Entreprises": [
+          "Business Analyst",
+          "Market Analyst",
+          "Consultant data",
+          "Consultant BI"
+        ]
+      },
+      "debouches": [
+        "Statisticien",
+        "Statisticien d'entreprise",
+        "Analyste statistique",
+        "Chargé d'études statistiques",
+        "Data Analyst",
+        "Data Scientist (avec spécialisation)",
+        "Data Engineer junior",
+        "Business Intelligence Analyst",
+        "BI Developer",
+        "Analyste financier",
+        "Risk Analyst",
+        "Credit Analyst",
+        "Quantitative Analyst junior",
+        "Analyste bancaire",
+        "Économiste",
+        "Chargé d'études économiques",
+        "Analyste économique",
+        "Analyste de marché",
+        "AI Engineer",
+        "Machine Learning Engineer",
+        "Data Scientist",
+        "AI Developer",
+        "Business Analyst",
+        "Market Analyst",
+        "Consultant data",
+        "Consultant BI"
+      ],
+      "texte_brut": "ISAIA\n\nInformatique, Statistique Appliquée et Intelligence Artificielle\n\nC'est une filière particulièrement orientée mathématiques, statistiques, informatique et économie. L'ISPM indique explicitement que les diplômés peuvent travailler notamment dans les banques, entreprises industrielles et entreprises commerciales.\n\nDébouchés\n\nStatistiques\n\nStatisticien\nStatisticien d'entreprise\nAnalyste statistique\nChargé d'études statistiques\n\nData\n\nData Analyst\nData Scientist (avec spécialisation)\nData Engineer junior\nBusiness Intelligence Analyst\nBI Developer\n\nFinance\n\nAnalyste financier\nRisk Analyst\nCredit Analyst\nQuantitative Analyst junior\nAnalyste bancaire\n\nÉconomie\n\nÉconomiste\nChargé d'études économiques\nAnalyste économique\nAnalyste de marché\n\nIA\n\nAI Engineer\nMachine Learning Engineer\nData Scientist\nAI Developer\n\nEntreprises\n\nBusiness Analyst\nMarket Analyst\nConsultant data\nConsultant BI",
+      "resume": "Débouchés du parcours ISAIA. Statistiques : Statisticien, Statisticien d'entreprise, Analyste statistique, Chargé d'études statistiques. Data : Data Analyst, Data Scientist (avec spécialisation), Data Engineer junior, Business Intelligence Analyst, BI Developer. Finance : Analyste financier, Risk Analyst, Credit Analyst, Quantitative Analyst junior, Analyste bancaire. Économie : Économiste, Chargé d'études économiques, Analyste économique, Analyste de marché. IA : AI Engineer, Machine Learning Engineer, Data Scientist, AI Developer. Entreprises : Business Analyst, Market Analyst, Consultant data, Consultant BI. Total métiers documentés : 26."
+    },
+    {
+      "parcours": "EMII",
+      "categories": {
+        "Électromécanique": [
+          "Ingénieur électromécanique",
+          "Technicien électromécanique",
+          "Ingénieur maintenance industrielle",
+          "Technicien maintenance industrielle"
+        ],
+        "Automatisation": [
+          "Automaticien",
+          "Ingénieur automatisme",
+          "Technicien automatisme",
+          "Control Systems Engineer"
+        ],
+        "Industrie": [
+          "Ingénieur industriel",
+          "Ingénieur production",
+          "Responsable production",
+          "Technicien production"
+        ],
+        "Informatique industrielle": [
+          "Ingénieur informatique industrielle",
+          "Industrial IT Engineer",
+          "Automation Engineer",
+          "SCADA Engineer"
+        ],
+        "Maintenance": [
+          "Responsable maintenance",
+          "Ingénieur maintenance",
+          "Technicien maintenance"
+        ],
+        "Énergie": [
+          "Ingénieur systèmes énergétiques",
+          "Technicien électrotechnique"
+        ]
+      },
+      "debouches": [
+        "Ingénieur électromécanique",
+        "Technicien électromécanique",
+        "Ingénieur maintenance industrielle",
+        "Technicien maintenance industrielle",
+        "Automaticien",
+        "Ingénieur automatisme",
+        "Technicien automatisme",
+        "Control Systems Engineer",
+        "Ingénieur industriel",
+        "Ingénieur production",
+        "Responsable production",
+        "Technicien production",
+        "Ingénieur informatique industrielle",
+        "Industrial IT Engineer",
+        "Automation Engineer",
+        "SCADA Engineer",
+        "Responsable maintenance",
+        "Ingénieur maintenance",
+        "Technicien maintenance",
+        "Ingénieur systèmes énergétiques",
+        "Technicien électrotechnique"
+      ],
+      "texte_brut": "EMII\n\nÉlectro-Mécanique et Informatique Industrielle\n\nL'ISPM indique que cette filière combine mécanique, technologies industrielles, informatique et informatique industrielle, avec un objectif de participation au développement industriel.\n\nDébouchés\n\nÉlectromécanique\n\nIngénieur électromécanique\nTechnicien électromécanique\nIngénieur maintenance industrielle\nTechnicien maintenance industrielle\n\nAutomatisation\n\nAutomaticien\nIngénieur automatisme\nTechnicien automatisme\nControl Systems Engineer\n\nIndustrie\n\nIngénieur industriel\nIngénieur production\nResponsable production\nTechnicien production\n\nInformatique industrielle\n\nIngénieur informatique industrielle\nIndustrial IT Engineer\nAutomation Engineer\nSCADA Engineer\n\nMaintenance\n\nResponsable maintenance\nIngénieur maintenance\nTechnicien maintenance\n\nÉnergie\n\nIngénieur systèmes énergétiques\nTechnicien électrotechnique",
+      "resume": "Débouchés du parcours EMII. Électromécanique : Ingénieur électromécanique, Technicien électromécanique, Ingénieur maintenance industrielle, Technicien maintenance industrielle. Automatisation : Automaticien, Ingénieur automatisme, Technicien automatisme, Control Systems Engineer. Industrie : Ingénieur industriel, Ingénieur production, Responsable production, Technicien production. Informatique industrielle : Ingénieur informatique industrielle, Industrial IT Engineer, Automation Engineer, SCADA Engineer. Maintenance : Responsable maintenance, Ingénieur maintenance, Technicien maintenance. Énergie : Ingénieur systèmes énergétiques, Technicien électrotechnique. Total métiers documentés : 21."
+    },
+    {
+      "parcours": "ICMP",
+      "categories": {
+        "Industrie chimique": [
+          "Ingénieur chimiste",
+          "Technicien chimiste",
+          "Ingénieur procédés",
+          "Process Engineer",
+          "Responsable laboratoire"
+        ],
+        "Mines": [
+          "Ingénieur minier",
+          "Ingénieur exploitation minière",
+          "Technicien minier",
+          "Responsable production minière",
+          "Géotechnicien (selon spécialisation)",
+          "Mining Engineer",
+          "Mine Operations Officer",
+          "Responsable exploitation"
+        ],
+        "Pétrole": [
+          "Ingénieur pétrolier",
+          "Petroleum Engineer",
+          "Technicien pétrolier",
+          "Process Engineer",
+          "Production Engineer",
+          "Oil & Gas Technician"
+        ],
+        "Laboratoire": [
+          "Analyste laboratoire",
+          "Technicien laboratoire",
+          "Responsable contrôle qualité"
+        ],
+        "HSE": [
+          "Responsable HSE",
+          "HSE Engineer",
+          "Safety Officer",
+          "Environmental Officer"
+        ],
+        "Général": [
+          "ICMP",
+          "Je la sépare car son champ professionnel est suffisamment large."
+        ],
+        "Chimie": [
+          "Ingénieur chimiste",
+          "Technicien chimiste",
+          "Process Engineer",
+          "Responsable laboratoire",
+          "Contrôleur qualité"
+        ],
+        "Environnement / sécurité": [
+          "HSE Engineer",
+          "Environmental Officer",
+          "Safety Officer",
+          "Environmental Consultant"
+        ],
+        "Gestion industrielle": [
+          "Responsable production",
+          "Responsable procédés",
+          "Responsable maintenance industrielle"
+        ]
+      },
+      "debouches": [
+        "Ingénieur chimiste",
+        "Technicien chimiste",
+        "Ingénieur procédés",
+        "Process Engineer",
+        "Responsable laboratoire",
+        "Ingénieur minier",
+        "Ingénieur exploitation minière",
+        "Technicien minier",
+        "Responsable production minière",
+        "Géotechnicien (selon spécialisation)",
+        "Ingénieur pétrolier",
+        "Petroleum Engineer",
+        "Technicien pétrolier",
+        "Production Engineer",
+        "Analyste laboratoire",
+        "Technicien laboratoire",
+        "Responsable contrôle qualité",
+        "Responsable HSE",
+        "HSE Engineer",
+        "Safety Officer",
+        "Environmental Officer",
+        "ICMP",
+        "Je la sépare car son champ professionnel est suffisamment large.",
+        "Contrôleur qualité",
+        "Mining Engineer",
+        "Mine Operations Officer",
+        "Responsable exploitation",
+        "Oil & Gas Technician",
+        "Environmental Consultant",
+        "Responsable production",
+        "Responsable procédés",
+        "Responsable maintenance industrielle"
+      ],
+      "texte_brut": "ICMP\n\nIndustries Chimiques, Minières et Pétrolières\n\nCette filière est destinée aux domaines chimique, minier et pétrolier.\n\nDébouchés\n\nIndustrie chimique\n\nIngénieur chimiste\nTechnicien chimiste\nIngénieur procédés\nProcess Engineer\nResponsable laboratoire\n\nMines\n\nIngénieur minier\nIngénieur exploitation minière\nTechnicien minier\nResponsable production minière\nGéotechnicien (selon spécialisation)\n\nPétrole\n\nIngénieur pétrolier\nPetroleum Engineer\nTechnicien pétrolier\nProcess Engineer\nProduction Engineer\n\nLaboratoire\n\nAnalyste laboratoire\nTechnicien laboratoire\nResponsable contrôle qualité\n\nHSE\n\nResponsable HSE\nHSE Engineer\nSafety Officer\nEnvironmental Officer",
+      "resume": "Débouchés du parcours ICMP. Industrie chimique : Ingénieur chimiste, Technicien chimiste, Ingénieur procédés, Process Engineer, Responsable laboratoire. Mines : Ingénieur minier, Ingénieur exploitation minière, Technicien minier, Responsable production minière, Géotechnicien (selon spécialisation), Mining Engineer (+2). Pétrole : Ingénieur pétrolier, Petroleum Engineer, Technicien pétrolier, Process Engineer, Production Engineer, Oil & Gas Technician. Laboratoire : Analyste laboratoire, Technicien laboratoire, Responsable contrôle qualité. HSE : Responsable HSE, HSE Engineer, Safety Officer, Environmental Officer. Général : ICMP, Je la sépare car son champ professionnel est suffisamment large.. Chimie : Ingénieur chimiste, Technicien chimiste, Process Engineer, Responsable laboratoire, Contrôleur qualité. Environnement / sécurité : HSE Engineer, Environmental Officer, Safety Officer, Environmental Consultant. Gestion industrielle : Responsable production, Responsable procédés, Responsable maintenance industrielle. Total métiers documentés : 32."
+    },
+    {
+      "parcours": "GCA",
+      "categories": {
+        "Construction": [
+          "Ingénieur génie civil",
+          "Technicien génie civil",
+          "Conducteur de travaux",
+          "Chef de chantier",
+          "Ingénieur construction"
+        ],
+        "Architecture": [
+          "Architecte (selon les conditions légales d'exercice)",
+          "Assistant architecte",
+          "Concepteur architectural",
+          "Dessinateur-projeteur"
+        ],
+        "Bâtiment": [
+          "Ingénieur bâtiment",
+          "Responsable travaux",
+          "Métreur",
+          "Économiste de la construction"
+        ],
+        "Infrastructures": [
+          "Ingénieur infrastructures",
+          "Ingénieur routes",
+          "Ingénieur ouvrages",
+          "Ingénieur hydraulique (avec spécialisation)"
+        ],
+        "Urbanisme": [
+          "Urbaniste",
+          "Assistant urbaniste",
+          "Chargé d'aménagement urbain"
+        ],
+        "Bureau d'études": [
+          "Ingénieur études",
+          "Dessinateur-projeteur",
+          "BIM Modeler (avec formation complémentaire)",
+          "BIM Coordinator (avec expérience)"
+        ]
+      },
+      "debouches": [
+        "Ingénieur génie civil",
+        "Technicien génie civil",
+        "Conducteur de travaux",
+        "Chef de chantier",
+        "Ingénieur construction",
+        "Architecte (selon les conditions légales d'exercice)",
+        "Assistant architecte",
+        "Concepteur architectural",
+        "Dessinateur-projeteur",
+        "Ingénieur bâtiment",
+        "Responsable travaux",
+        "Métreur",
+        "Économiste de la construction",
+        "Ingénieur infrastructures",
+        "Ingénieur routes",
+        "Ingénieur ouvrages",
+        "Ingénieur hydraulique (avec spécialisation)",
+        "Urbaniste",
+        "Assistant urbaniste",
+        "Chargé d'aménagement urbain",
+        "Ingénieur études",
+        "BIM Modeler (avec formation complémentaire)",
+        "BIM Coordinator (avec expérience)"
+      ],
+      "texte_brut": "GCA\n\nGénie Civil et Architecture\n\nL'ISPM indique que la formation vise notamment les infrastructures et l'aménagement urbain et rural.\n\nDébouchés\n\nConstruction\n\nIngénieur génie civil\nTechnicien génie civil\nConducteur de travaux\nChef de chantier\nIngénieur construction\n\nArchitecture\n\nArchitecte (selon les conditions légales d'exercice)\nAssistant architecte\nConcepteur architectural\nDessinateur-projeteur\n\nBâtiment\n\nIngénieur bâtiment\nResponsable travaux\nMétreur\nÉconomiste de la construction\n\nInfrastructures\n\nIngénieur infrastructures\nIngénieur routes\nIngénieur ouvrages\nIngénieur hydraulique (avec spécialisation)\n\nUrbanisme\n\nUrbaniste\nAssistant urbaniste\nChargé d'aménagement urbain\n\nBureau d'études\n\nIngénieur études\nDessinateur-projeteur\nBIM Modeler (avec formation complémentaire)\nBIM Coordinator (avec expérience)",
+      "resume": "Débouchés du parcours GCA. Construction : Ingénieur génie civil, Technicien génie civil, Conducteur de travaux, Chef de chantier, Ingénieur construction. Architecture : Architecte (selon les conditions légales d'exercice), Assistant architecte, Concepteur architectural, Dessinateur-projeteur. Bâtiment : Ingénieur bâtiment, Responsable travaux, Métreur, Économiste de la construction. Infrastructures : Ingénieur infrastructures, Ingénieur routes, Ingénieur ouvrages, Ingénieur hydraulique (avec spécialisation). Urbanisme : Urbaniste, Assistant urbaniste, Chargé d'aménagement urbain. Bureau d'études : Ingénieur études, Dessinateur-projeteur, BIM Modeler (avec formation complémentaire), BIM Coordinator (avec expérience). Total métiers documentés : 23."
+    },
+    {
+      "parcours": "CAA",
+      "categories": {
+        "Commerce": [
+          "Commercial",
+          "Business Developer",
+          "Sales Manager",
+          "Responsable commercial",
+          "Account Manager",
+          "Key Account Manager"
+        ],
+        "Marketing": [
+          "Responsable marketing",
+          "Marketing Officer",
+          "Brand Manager",
+          "Product Manager",
+          "Market Research Analyst"
+        ],
+        "Administration": [
+          "Administrateur d'entreprise",
+          "Assistant administratif",
+          "Responsable administratif",
+          "Office Manager"
+        ],
+        "Management": [
+          "Manager",
+          "Responsable d'équipe",
+          "Entrepreneur",
+          "Consultant en management"
+        ],
+        "Digital": [
+          "Digital Marketing Specialist",
+          "Community Manager",
+          "E-commerce Manager"
+        ]
+      },
+      "debouches": [
+        "Commercial",
+        "Business Developer",
+        "Sales Manager",
+        "Responsable commercial",
+        "Account Manager",
+        "Key Account Manager",
+        "Responsable marketing",
+        "Marketing Officer",
+        "Brand Manager",
+        "Product Manager",
+        "Market Research Analyst",
+        "Administrateur d'entreprise",
+        "Assistant administratif",
+        "Responsable administratif",
+        "Office Manager",
+        "Manager",
+        "Responsable d'équipe",
+        "Entrepreneur",
+        "Consultant en management",
+        "Digital Marketing Specialist",
+        "Community Manager",
+        "E-commerce Manager"
+      ],
+      "texte_brut": "CAA\n\nCommerce et Administration des Affaires\n\nL'ISPM présente cette formation autour du marketing, des techniques commerciales, de l'organisation et du management des entreprises.\n\nDébouchés\n\nCommerce\n\nCommercial\nBusiness Developer\nSales Manager\nResponsable commercial\nAccount Manager\nKey Account Manager\n\nMarketing\n\nResponsable marketing\nMarketing Officer\nBrand Manager\nProduct Manager\nMarket Research Analyst\n\nAdministration\n\nAdministrateur d'entreprise\nAssistant administratif\nResponsable administratif\nOffice Manager\n\nManagement\n\nManager\nResponsable d'équipe\nEntrepreneur\nConsultant en management\n\nDigital\n\nDigital Marketing Specialist\nCommunity Manager\nE-commerce Manager",
+      "resume": "Débouchés du parcours CAA. Commerce : Commercial, Business Developer, Sales Manager, Responsable commercial, Account Manager, Key Account Manager. Marketing : Responsable marketing, Marketing Officer, Brand Manager, Product Manager, Market Research Analyst. Administration : Administrateur d'entreprise, Assistant administratif, Responsable administratif, Office Manager. Management : Manager, Responsable d'équipe, Entrepreneur, Consultant en management. Digital : Digital Marketing Specialist, Community Manager, E-commerce Manager. Total métiers documentés : 22."
+    },
+    {
+      "parcours": "FIC",
+      "categories": {
+        "Comptabilité": [
+          "Comptable",
+          "Assistant comptable",
+          "Responsable comptable",
+          "Chef comptable"
+        ],
+        "Finance": [
+          "Analyste financier",
+          "Financial Analyst",
+          "Gestionnaire financier",
+          "Responsable financier"
+        ],
+        "Audit": [
+          "Auditeur financier",
+          "Auditeur interne",
+          "Contrôleur interne"
+        ],
+        "Contrôle": [
+          "Contrôleur de gestion",
+          "Financial Controller"
+        ],
+        "Banque": [
+          "Chargé de clientèle bancaire",
+          "Analyste crédit",
+          "Risk Analyst",
+          "Conseiller bancaire"
+        ],
+        "Fiscalité": [
+          "Fiscaliste",
+          "Assistant fiscal",
+          "Consultant fiscal"
+        ],
+        "Direction": [
+          "Directeur financier (avec expérience)",
+          "CFO (avec expérience)"
+        ]
+      },
+      "debouches": [
+        "Comptable",
+        "Assistant comptable",
+        "Responsable comptable",
+        "Chef comptable",
+        "Analyste financier",
+        "Financial Analyst",
+        "Gestionnaire financier",
+        "Responsable financier",
+        "Auditeur financier",
+        "Auditeur interne",
+        "Contrôleur interne",
+        "Contrôleur de gestion",
+        "Financial Controller",
+        "Chargé de clientèle bancaire",
+        "Analyste crédit",
+        "Risk Analyst",
+        "Conseiller bancaire",
+        "Fiscaliste",
+        "Assistant fiscal",
+        "Consultant fiscal",
+        "Directeur financier (avec expérience)",
+        "CFO (avec expérience)"
+      ],
+      "texte_brut": "FIC\n\nFinances et Comptabilités\n\nL'ISPM présente FIC comme une formation aux techniques quantitatives de gestion des entreprises, particulièrement finance et comptabilité.\n\nDébouchés\n\nComptabilité\n\nComptable\nAssistant comptable\nResponsable comptable\nChef comptable\n\nFinance\n\nAnalyste financier\nFinancial Analyst\nGestionnaire financier\nResponsable financier\n\nAudit\n\nAuditeur financier\nAuditeur interne\nContrôleur interne\n\nContrôle\n\nContrôleur de gestion\nFinancial Controller\n\nBanque\n\nChargé de clientèle bancaire\nAnalyste crédit\nRisk Analyst\nConseiller bancaire\n\nFiscalité\n\nFiscaliste\nAssistant fiscal\nConsultant fiscal\n\nDirection\n\nDirecteur financier (avec expérience)\nCFO (avec expérience)",
+      "resume": "Débouchés du parcours FIC. Comptabilité : Comptable, Assistant comptable, Responsable comptable, Chef comptable. Finance : Analyste financier, Financial Analyst, Gestionnaire financier, Responsable financier. Audit : Auditeur financier, Auditeur interne, Contrôleur interne. Contrôle : Contrôleur de gestion, Financial Controller. Banque : Chargé de clientèle bancaire, Analyste crédit, Risk Analyst, Conseiller bancaire. Fiscalité : Fiscaliste, Assistant fiscal, Consultant fiscal. Direction : Directeur financier (avec expérience), CFO (avec expérience). Total métiers documentés : 22."
+    },
+    {
+      "parcours": "DTJA",
+      "categories": {
+        "Général": [
+          "dans l'administration publique et les entreprises privées."
+        ],
+        "Juridique": [
+          "Juriste d'entreprise",
+          "Juriste en droit des affaires",
+          "Juriste international",
+          "Conseiller juridique",
+          "Assistant juridique"
+        ],
+        "Entreprise": [
+          "Legal Officer",
+          "Contract Manager",
+          "Compliance Officer",
+          "Responsable juridique"
+        ],
+        "Administration": [
+          "Juriste administratif",
+          "Cadre administratif",
+          "Conseiller juridique dans l'administration"
+        ],
+        "Banque / finance": [
+          "Juriste bancaire",
+          "Juriste financier",
+          "Compliance Analyst"
+        ],
+        "Droit commercial": [
+          "Juriste commercial",
+          "Contract Specialist"
+        ]
+      },
+      "debouches": [
+        "dans l'administration publique et les entreprises privées.",
+        "Juriste d'entreprise",
+        "Juriste en droit des affaires",
+        "Juriste international",
+        "Conseiller juridique",
+        "Assistant juridique",
+        "Legal Officer",
+        "Contract Manager",
+        "Compliance Officer",
+        "Responsable juridique",
+        "Juriste administratif",
+        "Cadre administratif",
+        "Conseiller juridique dans l'administration",
+        "Juriste bancaire",
+        "Juriste financier",
+        "Compliance Analyst",
+        "Juriste commercial",
+        "Contract Specialist"
+      ],
+      "texte_brut": "DTJA\n\nDroit et Techniques Juridiques des Affaires\n\nL'ISPM indique que cette filière forme des juristes maîtrisant les techniques juridiques nationales et internationales, avec des débouchés dans l'administration publique et les entreprises privées.\n\nDébouchés\n\nJuridique\n\nJuriste d'entreprise\nJuriste en droit des affaires\nJuriste international\nConseiller juridique\nAssistant juridique\n\nEntreprise\n\nLegal Officer\nContract Manager\nCompliance Officer\nResponsable juridique\n\nAdministration\n\nJuriste administratif\nCadre administratif\nConseiller juridique dans l'administration\n\nBanque / finance\n\nJuriste bancaire\nJuriste financier\nCompliance Analyst\n\nDroit commercial\n\nJuriste commercial\nContract Specialist\n\n⚠️ Pour les professions réglementées comme avocat, notaire, magistrat, huissier, le diplôme seul ne suffit généralement pas : des conditions légales, concours, stages ou formations complémentaires peuvent être nécessaires.",
+      "resume": "Débouchés du parcours DTJA. Général : dans l'administration publique et les entreprises privées.. Juridique : Juriste d'entreprise, Juriste en droit des affaires, Juriste international, Conseiller juridique, Assistant juridique. Entreprise : Legal Officer, Contract Manager, Compliance Officer, Responsable juridique. Administration : Juriste administratif, Cadre administratif, Conseiller juridique dans l'administration. Banque / finance : Juriste bancaire, Juriste financier, Compliance Analyst. Droit commercial : Juriste commercial, Contract Specialist. Total métiers documentés : 18."
+    },
+    {
+      "parcours": "EMP",
+      "categories": {
+        "Économie": [
+          "Économiste",
+          "Analyste économique",
+          "Chargé d'études économiques",
+          "Conseiller économique"
+        ],
+        "Management": [
+          "Manager",
+          "Management Consultant",
+          "Business Analyst"
+        ],
+        "Projet": [
+          "Chef de projet",
+          "Project Manager",
+          "Project Coordinator",
+          "PMO Analyst",
+          "Responsable programme"
+        ],
+        "Entreprises": [
+          "Business Developer",
+          "Strategy Analyst",
+          "Market Analyst"
+        ],
+        "Institutions": [
+          "Chargé de programme",
+          "Chargé de mission",
+          "Analyste de politiques publiques"
+        ],
+        "ONG": [
+          "Project Officer",
+          "Programme Officer",
+          "Monitoring & Evaluation Officer"
+        ]
+      },
+      "debouches": [
+        "Économiste",
+        "Analyste économique",
+        "Chargé d'études économiques",
+        "Conseiller économique",
+        "Manager",
+        "Management Consultant",
+        "Business Analyst",
+        "Chef de projet",
+        "Project Manager",
+        "Project Coordinator",
+        "PMO Analyst",
+        "Responsable programme",
+        "Business Developer",
+        "Strategy Analyst",
+        "Market Analyst",
+        "Chargé de programme",
+        "Chargé de mission",
+        "Analyste de politiques publiques",
+        "Project Officer",
+        "Programme Officer",
+        "Monitoring & Evaluation Officer"
+      ],
+      "texte_brut": "EMP\n\nÉconomie et Management de Projet\n\nL'ISPM indique que cette filière forme des économistes capables de réaliser des analyses économiques objectives et de les appliquer aux réalités des entreprises.\n\nDébouchés\n\nÉconomie\n\nÉconomiste\nAnalyste économique\nChargé d'études économiques\nConseiller économique\n\nManagement\n\nManager\nManagement Consultant\nBusiness Analyst\n\nProjet\n\nChef de projet\nProject Manager\nProject Coordinator\nPMO Analyst\nResponsable programme\n\nEntreprises\n\nBusiness Developer\nStrategy Analyst\nMarket Analyst\n\nInstitutions\n\nChargé de programme\nChargé de mission\nAnalyste de politiques publiques\n\nONG\n\nProject Officer\nProgramme Officer\nMonitoring & Evaluation Officer",
+      "resume": "Débouchés du parcours EMP. Économie : Économiste, Analyste économique, Chargé d'études économiques, Conseiller économique. Management : Manager, Management Consultant, Business Analyst. Projet : Chef de projet, Project Manager, Project Coordinator, PMO Analyst, Responsable programme. Entreprises : Business Developer, Strategy Analyst, Market Analyst. Institutions : Chargé de programme, Chargé de mission, Analyste de politiques publiques. ONG : Project Officer, Programme Officer, Monitoring & Evaluation Officer. Total métiers documentés : 21."
+    },
+    {
+      "parcours": "IAA",
+      "categories": {
+        "Production": [
+          "Ingénieur agroalimentaire",
+          "Responsable production",
+          "Responsable usine",
+          "Technicien agroalimentaire"
+        ],
+        "Qualité": [
+          "Quality Control Officer",
+          "Quality Assurance Officer",
+          "Responsable qualité"
+        ],
+        "Laboratoire": [
+          "Technicien laboratoire",
+          "Analyste laboratoire"
+        ],
+        "R&D": [
+          "Ingénieur R&D",
+          "Food Scientist",
+          "Technicien recherche"
+        ],
+        "Sécurité alimentaire": [
+          "Food Safety Officer",
+          "Responsable hygiène et sécurité alimentaire"
+        ],
+        "Production / transformation": [
+          "Responsable transformation alimentaire",
+          "Process Engineer"
+        ],
+        "Entrepreneuriat": [
+          "Entrepreneur agroalimentaire",
+          "Responsable PME agroalimentaire"
+        ]
+      },
+      "debouches": [
+        "Ingénieur agroalimentaire",
+        "Responsable production",
+        "Responsable usine",
+        "Technicien agroalimentaire",
+        "Quality Control Officer",
+        "Quality Assurance Officer",
+        "Responsable qualité",
+        "Technicien laboratoire",
+        "Analyste laboratoire",
+        "Ingénieur R&D",
+        "Food Scientist",
+        "Technicien recherche",
+        "Food Safety Officer",
+        "Responsable hygiène et sécurité alimentaire",
+        "Responsable transformation alimentaire",
+        "Process Engineer",
+        "Entrepreneur agroalimentaire",
+        "Responsable PME agroalimentaire"
+      ],
+      "texte_brut": "IAA\n\nIndustrie Agroalimentaire\n\nL'objectif affiché par l'ISPM est notamment de former des cadres pour les entreprises agroalimentaires.\n\nDébouchés\n\nProduction\n\nIngénieur agroalimentaire\nResponsable production\nResponsable usine\nTechnicien agroalimentaire\n\nQualité\n\nQuality Control Officer\nQuality Assurance Officer\nResponsable qualité\n\nLaboratoire\n\nTechnicien laboratoire\nAnalyste laboratoire\n\nR&D\n\nIngénieur R&D\nFood Scientist\nTechnicien recherche\n\nSécurité alimentaire\n\nFood Safety Officer\nResponsable hygiène et sécurité alimentaire\n\nProduction / transformation\n\nResponsable transformation alimentaire\nProcess Engineer\n\nEntrepreneuriat\n\nEntrepreneur agroalimentaire\nResponsable PME agroalimentaire",
+      "resume": "Débouchés du parcours IAA. Production : Ingénieur agroalimentaire, Responsable production, Responsable usine, Technicien agroalimentaire. Qualité : Quality Control Officer, Quality Assurance Officer, Responsable qualité. Laboratoire : Technicien laboratoire, Analyste laboratoire. R&D : Ingénieur R&D, Food Scientist, Technicien recherche. Sécurité alimentaire : Food Safety Officer, Responsable hygiène et sécurité alimentaire. Production / transformation : Responsable transformation alimentaire, Process Engineer. Entrepreneuriat : Entrepreneur agroalimentaire, Responsable PME agroalimentaire. Total métiers documentés : 18."
+    },
+    {
+      "parcours": "AEE",
+      "categories": {
+        "Agriculture": [
+          "Ingénieur agronome",
+          "Technicien agricole",
+          "Conseiller agricole",
+          "Responsable exploitation agricole"
+        ],
+        "Élevage": [
+          "Responsable élevage",
+          "Technicien élevage",
+          "Conseiller en élevage"
+        ],
+        "Agrobusiness": [
+          "Business Developer agricole",
+          "Responsable agrobusiness",
+          "Entrepreneur agricole",
+          "Gestionnaire d'exploitation agricole"
+        ],
+        "ONG / développement rural": [
+          "Project Officer",
+          "Conseiller développement rural",
+          "Chargé de programme agricole"
+        ],
+        "Production": [
+          "Responsable production agricole",
+          "Responsable ferme",
+          "Farm Manager"
+        ],
+        "Coopératives": [
+          "Responsable coopérative agricole",
+          "Conseiller organisation paysanne"
+        ]
+      },
+      "debouches": [
+        "Ingénieur agronome",
+        "Technicien agricole",
+        "Conseiller agricole",
+        "Responsable exploitation agricole",
+        "Responsable élevage",
+        "Technicien élevage",
+        "Conseiller en élevage",
+        "Business Developer agricole",
+        "Responsable agrobusiness",
+        "Entrepreneur agricole",
+        "Gestionnaire d'exploitation agricole",
+        "Project Officer",
+        "Conseiller développement rural",
+        "Chargé de programme agricole",
+        "Responsable production agricole",
+        "Responsable ferme",
+        "Farm Manager",
+        "Responsable coopérative agricole",
+        "Conseiller organisation paysanne"
+      ],
+      "texte_brut": "AEE\n\nAgriculture et Élevage\n\nL'ISPM insiste sur l'application des techniques et technologies modernes au monde rural et sur l'agri-business.\n\nDébouchés\n\nAgriculture\n\nIngénieur agronome\nTechnicien agricole\nConseiller agricole\nResponsable exploitation agricole\n\nÉlevage\n\nResponsable élevage\nTechnicien élevage\nConseiller en élevage\n\nAgrobusiness\n\nBusiness Developer agricole\nResponsable agrobusiness\nEntrepreneur agricole\nGestionnaire d'exploitation agricole\n\nONG / développement rural\n\nProject Officer\nConseiller développement rural\nChargé de programme agricole\n\nProduction\n\nResponsable production agricole\nResponsable ferme\nFarm Manager\n\nCoopératives\n\nResponsable coopérative agricole\nConseiller organisation paysanne",
+      "resume": "Débouchés du parcours AEE. Agriculture : Ingénieur agronome, Technicien agricole, Conseiller agricole, Responsable exploitation agricole. Élevage : Responsable élevage, Technicien élevage, Conseiller en élevage. Agrobusiness : Business Developer agricole, Responsable agrobusiness, Entrepreneur agricole, Gestionnaire d'exploitation agricole. ONG / développement rural : Project Officer, Conseiller développement rural, Chargé de programme agricole. Production : Responsable production agricole, Responsable ferme, Farm Manager. Coopératives : Responsable coopérative agricole, Conseiller organisation paysanne. Total métiers documentés : 19."
+    },
+    {
+      "parcours": "PIP",
+      "categories": {
+        "Industrie pharmaceutique": [
+          "Technicien pharmaceutique industriel",
+          "Responsable production pharmaceutique",
+          "Quality Control Officer",
+          "Quality Assurance Officer"
+        ],
+        "Laboratoire": [
+          "Technicien laboratoire",
+          "Analyste laboratoire",
+          "Assistant R&D"
+        ],
+        "Recherche": [
+          "Assistant de recherche",
+          "Chercheur (avec poursuite d'études)"
+        ],
+        "Pharmacologie": [
+          "Assistant pharmacologie",
+          "Technicien pharmacologique"
+        ],
+        "Phytothérapie / plantes": [
+          "Technicien en valorisation des plantes médicinales",
+          "R&D phytopharmaceutique"
+        ]
+      },
+      "debouches": [
+        "Technicien pharmaceutique industriel",
+        "Responsable production pharmaceutique",
+        "Quality Control Officer",
+        "Quality Assurance Officer",
+        "Technicien laboratoire",
+        "Analyste laboratoire",
+        "Assistant R&D",
+        "Assistant de recherche",
+        "Chercheur (avec poursuite d'études)",
+        "Assistant pharmacologie",
+        "Technicien pharmacologique",
+        "Technicien en valorisation des plantes médicinales",
+        "R&D phytopharmaceutique"
+      ],
+      "texte_brut": "PIP\n\nPharmacologie et Industries Pharmaceutiques\n\nL'ISPM indique notamment vouloir exploiter scientifiquement les propriétés thérapeutiques des plantes médicinales endémiques de Madagascar.\n\nDébouchés\n\nIndustrie pharmaceutique\n\nTechnicien pharmaceutique industriel\nResponsable production pharmaceutique\nQuality Control Officer\nQuality Assurance Officer\n\nLaboratoire\n\nTechnicien laboratoire\nAnalyste laboratoire\nAssistant R&D\n\nRecherche\n\nAssistant de recherche\nChercheur (avec poursuite d'études)\n\nPharmacologie\n\nAssistant pharmacologie\nTechnicien pharmacologique\n\nPhytothérapie / plantes\n\nTechnicien en valorisation des plantes médicinales\nR&D phytopharmaceutique\n\n⚠️ Là encore, pharmacien est une profession réglementée : un parcours PIP ne signifie pas automatiquement que le diplômé peut exercer comme pharmacien.",
+      "resume": "Débouchés du parcours PIP. Industrie pharmaceutique : Technicien pharmaceutique industriel, Responsable production pharmaceutique, Quality Control Officer, Quality Assurance Officer. Laboratoire : Technicien laboratoire, Analyste laboratoire, Assistant R&D. Recherche : Assistant de recherche, Chercheur (avec poursuite d'études). Pharmacologie : Assistant pharmacologie, Technicien pharmacologique. Phytothérapie / plantes : Technicien en valorisation des plantes médicinales, R&D phytopharmaceutique. Total métiers documentés : 13."
+    },
+    {
+      "parcours": "TEE",
+      "categories": {
+        "Tourisme": [
+          "Agent de voyage",
+          "Travel Consultant",
+          "Tour Operator",
+          "Travel Planner",
+          "Guide touristique",
+          "Accompagnateur touristique"
+        ],
+        "Hôtellerie / tourisme": [
+          "Tourism Manager",
+          "Responsable agence de voyage",
+          "Responsable touristique"
+        ],
+        "Environnement": [
+          "Environmental Officer",
+          "Chargé de mission environnement",
+          "Conseiller environnement"
+        ],
+        "Écotourisme": [
+          "Responsable écotourisme",
+          "Coordinateur écotouristique",
+          "Gestionnaire de site touristique"
+        ],
+        "Patrimoine": [
+          "Guide culturel",
+          "Médiateur culturel",
+          "Chargé de valorisation du patrimoine"
+        ],
+        "ONG": [
+          "Project Officer environnement",
+          "Chargé de développement communautaire"
+        ]
+      },
+      "debouches": [
+        "Agent de voyage",
+        "Travel Consultant",
+        "Tour Operator",
+        "Travel Planner",
+        "Guide touristique",
+        "Accompagnateur touristique",
+        "Tourism Manager",
+        "Responsable agence de voyage",
+        "Responsable touristique",
+        "Environmental Officer",
+        "Chargé de mission environnement",
+        "Conseiller environnement",
+        "Responsable écotourisme",
+        "Coordinateur écotouristique",
+        "Gestionnaire de site touristique",
+        "Guide culturel",
+        "Médiateur culturel",
+        "Chargé de valorisation du patrimoine",
+        "Project Officer environnement",
+        "Chargé de développement communautaire"
+      ],
+      "texte_brut": "TEE\n\nTourisme et Environnement\n\nL'ISPM présente TEE comme une formation combinant tourisme, environnement, patrimoine naturel et civilisation malgache, avec pour objectif de former des professionnels du secteur touristique.\n\nDébouchés\n\nTourisme\n\nAgent de voyage\nTravel Consultant\nTour Operator\nTravel Planner\nGuide touristique\nAccompagnateur touristique\n\nHôtellerie / tourisme\n\nTourism Manager\nResponsable agence de voyage\nResponsable touristique\n\nEnvironnement\n\nEnvironmental Officer\nChargé de mission environnement\nConseiller environnement\n\nÉcotourisme\n\nResponsable écotourisme\nCoordinateur écotouristique\nGestionnaire de site touristique\n\nPatrimoine\n\nGuide culturel\nMédiateur culturel\nChargé de valorisation du patrimoine\n\nONG\n\nProject Officer environnement\nChargé de développement communautaire",
+      "resume": "Débouchés du parcours TEE. Tourisme : Agent de voyage, Travel Consultant, Tour Operator, Travel Planner, Guide touristique, Accompagnateur touristique. Hôtellerie / tourisme : Tourism Manager, Responsable agence de voyage, Responsable touristique. Environnement : Environmental Officer, Chargé de mission environnement, Conseiller environnement. Écotourisme : Responsable écotourisme, Coordinateur écotouristique, Gestionnaire de site touristique. Patrimoine : Guide culturel, Médiateur culturel, Chargé de valorisation du patrimoine. ONG : Project Officer environnement, Chargé de développement communautaire. Total métiers documentés : 20."
+    },
+    {
+      "parcours": "TEH",
+      "categories": {
+        "Hôtellerie": [
+          "Réceptionniste",
+          "Front Office Manager",
+          "Hôtel Manager",
+          "Hotel Operations Manager",
+          "Responsable hébergement"
+        ],
+        "Restauration": [
+          "Restaurant Manager",
+          "Responsable restauration",
+          "Chef de cuisine",
+          "Sous-chef",
+          "Responsable banquet"
+        ],
+        "Tourisme": [
+          "Travel Consultant",
+          "Agent de voyage",
+          "Tour Operator",
+          "Guide touristique"
+        ],
+        "Événementiel": [
+          "Event Coordinator",
+          "Event Manager",
+          "Wedding Planner"
+        ],
+        "Management": [
+          "Hospitality Manager",
+          "Resort Manager",
+          "Guest Relations Manager"
+        ],
+        "Entrepreneuriat": [
+          "Gérant d'hôtel",
+          "Gérant de restaurant",
+          "Entrepreneur touristique"
+        ]
+      },
+      "debouches": [
+        "Réceptionniste",
+        "Front Office Manager",
+        "Hôtel Manager",
+        "Hotel Operations Manager",
+        "Responsable hébergement",
+        "Restaurant Manager",
+        "Responsable restauration",
+        "Chef de cuisine",
+        "Sous-chef",
+        "Responsable banquet",
+        "Travel Consultant",
+        "Agent de voyage",
+        "Tour Operator",
+        "Guide touristique",
+        "Event Coordinator",
+        "Event Manager",
+        "Wedding Planner",
+        "Hospitality Manager",
+        "Resort Manager",
+        "Guest Relations Manager",
+        "Gérant d'hôtel",
+        "Gérant de restaurant",
+        "Entrepreneur touristique"
+      ],
+      "texte_brut": "TEH\n\nTourisme et Hôtellerie\n\nCette filière ajoute au tourisme une forte orientation vers l'hôtellerie et les techniques culinaires, y compris nationales et internationales.\n\nDébouchés\n\nHôtellerie\n\nRéceptionniste\nFront Office Manager\nHôtel Manager\nHotel Operations Manager\nResponsable hébergement\n\nRestauration\n\nRestaurant Manager\nResponsable restauration\nChef de cuisine\nSous-chef\nResponsable banquet\n\nTourisme\n\nTravel Consultant\nAgent de voyage\nTour Operator\nGuide touristique\n\nÉvénementiel\n\nEvent Coordinator\nEvent Manager\nWedding Planner\n\nManagement\n\nHospitality Manager\nResort Manager\nGuest Relations Manager\n\nEntrepreneuriat\n\nGérant d'hôtel\nGérant de restaurant\nEntrepreneur touristique",
+      "resume": "Débouchés du parcours TEH. Hôtellerie : Réceptionniste, Front Office Manager, Hôtel Manager, Hotel Operations Manager, Responsable hébergement. Restauration : Restaurant Manager, Responsable restauration, Chef de cuisine, Sous-chef, Responsable banquet. Tourisme : Travel Consultant, Agent de voyage, Tour Operator, Guide touristique. Événementiel : Event Coordinator, Event Manager, Wedding Planner. Management : Hospitality Manager, Resort Manager, Guest Relations Manager. Entrepreneuriat : Gérant d'hôtel, Gérant de restaurant, Entrepreneur touristique. Total métiers documentés : 23."
+    }
+  ]
+}

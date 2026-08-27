@@ -1,0 +1,1010 @@
+{
+  "meta": {
+    "titre": "Corpus pédagogique ISPM (compilé)",
+    "fichier_source": "data/raw/corpus/corpusISPMNote.txt",
+    "date_traitement": "2026-08-27",
+    "statut": "institutionnel_compile"
+  },
+  "catalogue": {
+    "source": "corpusISPMNote",
+    "consultation_date": "2026-08-27",
+    "statut": "institutionnel_compile",
+    "limites": [
+      "Détail matières/compétences/débouchés très développé pour IGGLIA ; les autres parcours reposent surtout sur les matières principales listées.",
+      "ICMP n'a pas de détail matière dédié au-delà de la mention Génie Industriel.",
+      "Sources mixtes (site ISPM + notes pédagogiques compilées) — ne pas présenter chaque détail comme brochure officielle sans vérification."
+    ],
+    "niveaux": [
+      "Licence (3 ans + stage 3 mois)",
+      "Ingénieur (2 ans d'approfondissement + stage 6 mois)",
+      "Doctorat (recherche)"
+    ],
+    "mentions": [
+      {
+        "code": "INFO_TELECOM",
+        "nom": "Informatique et Télécommunications",
+        "parcours": [
+          {
+            "code": "IGGLIA",
+            "nom": "Informatique de Gestion Génie Logiciel et Intelligence Artificielle",
+            "matieres_principales": [
+              "mathematiques",
+              "algorithmique",
+              "programmation",
+              "bases_de_donnees",
+              "genie_logiciel",
+              "systemes",
+              "ia",
+              "informatique_gestion"
+            ],
+            "axes_forts": [
+              "programmation",
+              "gestion",
+              "genie_logiciel",
+              "web",
+              "si"
+            ]
+          },
+          {
+            "code": "ESIIA",
+            "nom": "Electronique Système Informatique et Intelligence Artificielle",
+            "matieres_principales": [
+              "mathematiques",
+              "electricite",
+              "electronique",
+              "informatique",
+              "systemes",
+              "reseaux",
+              "ia"
+            ],
+            "axes_forts": [
+              "electronique",
+              "systemes",
+              "hardware",
+              "embarque"
+            ]
+          },
+          {
+            "code": "IMTICIA",
+            "nom": "Informatique Multimédia Technologie de l'Information et de la Communication et Intelligence Artificielle",
+            "matieres_principales": [
+              "informatique",
+              "programmation",
+              "multimedia",
+              "tic",
+              "telecommunications",
+              "technologies_numeriques",
+              "ia"
+            ],
+            "axes_forts": [
+              "multimedia",
+              "design",
+              "communication",
+              "web"
+            ]
+          },
+          {
+            "code": "ISAIA",
+            "nom": "Informatique Statistique Appliquée et Intelligence Artificielle",
+            "matieres_principales": [
+              "mathematiques",
+              "statistiques",
+              "probabilites",
+              "informatique",
+              "analyse_de_donnees",
+              "ia"
+            ],
+            "axes_forts": [
+              "mathematiques",
+              "statistiques",
+              "data",
+              "analyse"
+            ]
+          }
+        ]
+      },
+      {
+        "code": "GENIE_INDUSTRIEL",
+        "nom": "Génie Industriel",
+        "parcours": [
+          {
+            "code": "EMII",
+            "nom": "Electro-Mécanique et Informatique Industrielle",
+            "matieres_principales": [
+              "mathematiques",
+              "physique",
+              "mecanique",
+              "electricite",
+              "electromecanique",
+              "automatisme",
+              "informatique_industrielle"
+            ],
+            "axes_forts": [
+              "mecanique",
+              "automatisme",
+              "industrie",
+              "hardware"
+            ]
+          },
+          {
+            "code": "ICMP",
+            "nom": "Industries Chimiques, Minières et Pétrolières",
+            "matieres_principales": [
+              "mathematiques",
+              "chimie",
+              "physique",
+              "procedes_industriels"
+            ],
+            "axes_forts": [
+              "chimie",
+              "industrie",
+              "procedes"
+            ]
+          }
+        ]
+      },
+      {
+        "code": "GENIE_CIVIL",
+        "nom": "Génie Civil et Architecture",
+        "parcours": [
+          {
+            "code": "GCA",
+            "nom": "Génie Civil et Architecture",
+            "matieres_principales": [
+              "mathematiques",
+              "physique",
+              "resistance_materiaux",
+              "construction",
+              "architecture",
+              "genie_civil"
+            ],
+            "axes_forts": [
+              "construction",
+              "architecture",
+              "physique"
+            ]
+          }
+        ]
+      },
+      {
+        "code": "DROIT_AFFAIRES",
+        "nom": "Droit et Techniques des Affaires",
+        "parcours": [
+          {
+            "code": "CAA",
+            "nom": "Commerce et Administration des Affaires",
+            "matieres_principales": [
+              "francais",
+              "mathematiques",
+              "economie",
+              "gestion",
+              "commerce"
+            ],
+            "axes_forts": [
+              "commerce",
+              "gestion",
+              "economie"
+            ]
+          },
+          {
+            "code": "EMP",
+            "nom": "Economie et Management de Projet",
+            "matieres_principales": [
+              "francais",
+              "mathematiques",
+              "economie",
+              "gestion",
+              "management_projet"
+            ],
+            "axes_forts": [
+              "economie",
+              "gestion",
+              "projet"
+            ]
+          },
+          {
+            "code": "FIC",
+            "nom": "Finances et Comptabilités",
+            "matieres_principales": [
+              "francais",
+              "mathematiques",
+              "economie",
+              "comptabilite",
+              "finance"
+            ],
+            "axes_forts": [
+              "finance",
+              "comptabilite",
+              "economie"
+            ]
+          },
+          {
+            "code": "DTJA",
+            "nom": "Droit et Techniques Juridiques des Affaires",
+            "matieres_principales": [
+              "francais",
+              "mathematiques",
+              "economie",
+              "droit",
+              "techniques_juridiques"
+            ],
+            "axes_forts": [
+              "droit",
+              "affaires",
+              "juridique"
+            ]
+          }
+        ]
+      },
+      {
+        "code": "BIOTECH_AGRO",
+        "nom": "Biotechnologie et Agronomie",
+        "parcours": [
+          {
+            "code": "IAA",
+            "nom": "Industrie Agroalimentaire",
+            "matieres_principales": [
+              "mathematiques",
+              "biologie",
+              "chimie",
+              "agroalimentaire"
+            ],
+            "axes_forts": [
+              "agroalimentaire",
+              "biologie",
+              "chimie"
+            ]
+          },
+          {
+            "code": "AEE",
+            "nom": "Agriculture et Elevage",
+            "matieres_principales": [
+              "mathematiques",
+              "biologie",
+              "sciences_agronomiques",
+              "elevage"
+            ],
+            "axes_forts": [
+              "agriculture",
+              "elevage",
+              "biologie"
+            ]
+          },
+          {
+            "code": "PIP",
+            "nom": "Pharmacologie et Industries Pharmaceutiques",
+            "matieres_principales": [
+              "mathematiques",
+              "biologie",
+              "chimie",
+              "pharmacologie"
+            ],
+            "axes_forts": [
+              "pharmacologie",
+              "chimie",
+              "biologie"
+            ]
+          }
+        ]
+      },
+      {
+        "code": "TOURISME",
+        "nom": "Tourisme",
+        "parcours": [
+          {
+            "code": "TEE",
+            "nom": "Tourisme et Environnement",
+            "matieres_principales": [
+              "langues",
+              "histoire_geo",
+              "svt",
+              "tourisme",
+              "environnement"
+            ],
+            "axes_forts": [
+              "tourisme",
+              "environnement",
+              "langues"
+            ]
+          },
+          {
+            "code": "TEH",
+            "nom": "Tourisme et Hôtellerie",
+            "matieres_principales": [
+              "langues",
+              "tourisme",
+              "hotellerie",
+              "culture_touristique"
+            ],
+            "axes_forts": [
+              "hotellerie",
+              "tourisme",
+              "langues"
+            ]
+          }
+        ]
+      }
+    ],
+    "passerelles": [
+      {
+        "from": "IGGLIA",
+        "to": "ISAIA",
+        "motif": "Data Science, ML, statistiques, IA"
+      },
+      {
+        "from": "IGGLIA",
+        "to": "ESIIA",
+        "motif": "IoT, embarqué, électronique, robotique"
+      },
+      {
+        "from": "IGGLIA",
+        "to": "IMTICIA",
+        "motif": "Multimédia, TIC, applications interactives"
+      },
+      {
+        "from": "IGGLIA",
+        "to": "ESIIA",
+        "motif": "Structures des ordinateurs / hardware"
+      }
+    ],
+    "note": "Catalogue dérivé de corpusISPMNote. Extensible quand le corpus officiel sera enrichi."
+  },
+  "matieres_principales_par_parcours": {
+    "IGGLIA": "Mathématiques + algorithmique + programmation + bases de données + génie logiciel + systèmes + IA + informatique de gestion.",
+    "ESIIA": "Mathématiques + électricité + électronique + informatique + systèmes + réseaux/télécommunications + IA.",
+    "IMTICIA": "Informatique + programmation + multimédia + TIC + télécommunications + technologies numériques + IA.",
+    "ISAIA": "Mathématiques + statistiques + probabilités + informatique + analyse de données + IA.",
+    "EMII": "Mathématiques + physique + mécanique + électricité + électromécanique + automatisme + informatique industrielle.",
+    "GCA": "Mathématiques + physique + résistance des matériaux + construction + architecture + génie civil.",
+    "CAA": "Français + mathématiques + économie + gestion + comptabilité + finance + commerce + droit selon le parcours.",
+    "EMP": "Français + mathématiques + économie + gestion + comptabilité + finance + commerce + droit selon le parcours.",
+    "FIC": "Français + mathématiques + économie + gestion + comptabilité + finance + commerce + droit selon le parcours.",
+    "DTJA": "Français + mathématiques + économie + gestion + comptabilité + finance + commerce + droit selon le parcours.",
+    "IAA": "Mathématiques + biologie + chimie + sciences agronomiques/pharmaceutiques selon la spécialité.",
+    "AEE": "Mathématiques + biologie + chimie + sciences agronomiques/pharmaceutiques selon la spécialité.",
+    "PIP": "Mathématiques + biologie + chimie + sciences agronomiques/pharmaceutiques selon la spécialité.",
+    "TEE": "Langues + histoire-géographie/SVT + tourisme + environnement + hôtellerie + culture et techniques touristiques.",
+    "TEH": "Langues + histoire-géographie/SVT + tourisme + environnement + hôtellerie + culture et techniques touristiques.",
+    "ICMP": "Mathématiques + chimie + physique + procédés industriels (mention Génie Industriel)."
+  },
+  "matieres_detaillees": [
+    {
+      "id": "IGGLIA_matiere_1",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Algorithmique",
+      "competences": [
+        "Décomposer un problème informatique.",
+        "Concevoir un algorithme.",
+        "Utiliser conditions, boucles, fonctions et procédures.",
+        "Manipuler des tableaux, listes et structures de données.",
+        "Analyser la complexité d'un algorithme.",
+        "Transformer un problème métier en solution informatique.",
+        "Préparer la programmation dans différents langages."
+      ],
+      "prerequis": [
+        "Mathématiques de base.",
+        "Raisonnement logique.",
+        "Notions élémentaires d'informatique.",
+        "Capacité à résoudre des problèmes."
+      ],
+      "debouches": [
+        "Développeur logiciel.",
+        "Développeur web.",
+        "Développeur backend.",
+        "Développeur frontend.",
+        "Ingénieur logiciel.",
+        "Data/AI developer.",
+        "Analyste-programmeur."
+      ],
+      "texte_brut": "Compétences développées\nDécomposer un problème informatique.\nConcevoir un algorithme.\nUtiliser conditions, boucles, fonctions et procédures.\nManipuler des tableaux, listes et structures de données.\nAnalyser la complexité d'un algorithme.\nTransformer un problème métier en solution informatique.\nPréparer la programmation dans différents langages.\nPrérequis\nMathématiques de base.\nRaisonnement logique.\nNotions élémentaires d'informatique.\nCapacité à résoudre des problèmes.\nDébouchés professionnels\nDéveloppeur logiciel.\nDéveloppeur web.\nDéveloppeur backend.\nDéveloppeur frontend.\nIngénieur logiciel.\nData/AI developer.\nAnalyste-programmeur.\nRelation compétences → parcours → métiers\n\nAlgorithmique → résolution de problèmes → programmation → génie logiciel → développeur/ingénieur logiciel.\n\nC'est une matière fondamentale : elle ne correspond pas à un seul métier, mais constitue le socle de presque tous les métiers techniques d'IGGLIA."
+    },
+    {
+      "id": "IGGLIA_matiere_2",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Programmation",
+      "competences": [
+        "Écrire des programmes.",
+        "Utiliser des variables, fonctions, classes et objets.",
+        "Manipuler des structures de données.",
+        "Déboguer une application.",
+        "Organiser du code.",
+        "Utiliser des bibliothèques et frameworks.",
+        "Développer des applications complètes."
+      ],
+      "prerequis": [
+        "Algorithmique.",
+        "Logique.",
+        "Bases de données pour les applications métier."
+      ],
+      "debouches": [
+        "Développeur frontend.",
+        "Développeur backend.",
+        "Full-stack developer.",
+        "Software engineer.",
+        "Mobile developer.",
+        "DevOps junior.",
+        "Développeur d'applications métier."
+      ],
+      "texte_brut": "Compétences\nÉcrire des programmes.\nUtiliser des variables, fonctions, classes et objets.\nManipuler des structures de données.\nDéboguer une application.\nOrganiser du code.\nUtiliser des bibliothèques et frameworks.\nDévelopper des applications complètes.\nPrérequis\nAlgorithmique.\nLogique.\nBases de données pour les applications métier.\nDébouchés\nDéveloppeur frontend.\nDéveloppeur backend.\nFull-stack developer.\nSoftware engineer.\nMobile developer.\nDevOps junior.\nDéveloppeur d'applications métier.\nRelation\n\nAlgorithmique → programmation → architecture logicielle → application → métier de développeur.\n\nLes projets historiques de l'ISPM montrent justement des réalisations IGGLIA en logiciels, sites web, e-commerce et logiciels de gestion."
+    },
+    {
+      "id": "IGGLIA_matiere_3",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Bases de données",
+      "competences": [
+        "Concevoir une base de données.",
+        "Modéliser les données.",
+        "Utiliser SQL.",
+        "Créer tables, relations et contraintes.",
+        "Faire des requêtes.",
+        "Gérer les transactions.",
+        "Optimiser les requêtes.",
+        "Administrer une base de données.",
+        "Comprendre les SGBDR."
+      ],
+      "prerequis": [
+        "Algorithmique.",
+        "Programmation.",
+        "Logique.",
+        "Modélisation."
+      ],
+      "debouches": [
+        "Backend developer.",
+        "Full-stack developer.",
+        "Database developer.",
+        "Database administrator.",
+        "Data engineer junior.",
+        "Software engineer."
+      ],
+      "texte_brut": "Compétences\nConcevoir une base de données.\nModéliser les données.\nUtiliser SQL.\nCréer tables, relations et contraintes.\nFaire des requêtes.\nGérer les transactions.\nOptimiser les requêtes.\nAdministrer une base de données.\nComprendre les SGBDR.\nPrérequis\nAlgorithmique.\nProgrammation.\nLogique.\nModélisation.\nDébouchés\nBackend developer.\nFull-stack developer.\nDatabase developer.\nDatabase administrator.\nData engineer junior.\nSoftware engineer.\nRelation\n\nBases de données → systèmes d'information → applications métier → développeur backend / ingénieur SI.\n\nLa présence de la BD dans les formations ISPM est notamment attestée dans des documents d'étudiants ; les mémoires récents IGGLIA utilisent également MySQL, SQL, ORM et SGBDR."
+    },
+    {
+      "id": "IGGLIA_matiere_4",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "MERISE",
+      "competences": [
+        "Analyser un système d'information.",
+        "Identifier les données et traitements.",
+        "Réaliser un MCD.",
+        "Réaliser un MLD.",
+        "Passer de la modélisation à la base de données.",
+        "Analyser les besoins d'une entreprise.",
+        "Concevoir un système d'information."
+      ],
+      "prerequis": [
+        "Algorithmique.",
+        "Bases de données.",
+        "Compréhension des systèmes d'information."
+      ],
+      "debouches": [
+        "Analyste-programmeur.",
+        "Analyste fonctionnel.",
+        "Business analyst junior.",
+        "Concepteur de systèmes d'information.",
+        "Développeur.",
+        "Consultant informatique."
+      ],
+      "texte_brut": "Compétences\nAnalyser un système d'information.\nIdentifier les données et traitements.\nRéaliser un MCD.\nRéaliser un MLD.\nPasser de la modélisation à la base de données.\nAnalyser les besoins d'une entreprise.\nConcevoir un système d'information.\nPrérequis\nAlgorithmique.\nBases de données.\nCompréhension des systèmes d'information.\nDébouchés\nAnalyste-programmeur.\nAnalyste fonctionnel.\nBusiness analyst junior.\nConcepteur de systèmes d'information.\nDéveloppeur.\nConsultant informatique.\nRelation\n\nMERISE → analyse → conception → base de données → système d'information → analyste/concepteur.\n\nC'est particulièrement cohérent avec l'objectif officiel d'IGGLIA : l'informatique appliquée à la gestion des entreprises."
+    },
+    {
+      "id": "IGGLIA_matiere_5",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "MERISE 2",
+      "competences": [
+        "Approfondir la modélisation.",
+        "Concevoir des systèmes d'information complexes.",
+        "Passer du modèle conceptuel à l'implémentation.",
+        "Formaliser les processus métier.",
+        "Structurer une architecture de données."
+      ],
+      "prerequis": [
+        "MERISE.",
+        "Bases de données.",
+        "Analyse des systèmes."
+      ],
+      "debouches": [
+        "Analyste fonctionnel.",
+        "Concepteur SI.",
+        "Business analyst.",
+        "Analyste-programmeur.",
+        "Consultant SI."
+      ],
+      "texte_brut": "Compétences\nApprofondir la modélisation.\nConcevoir des systèmes d'information complexes.\nPasser du modèle conceptuel à l'implémentation.\nFormaliser les processus métier.\nStructurer une architecture de données.\nPrérequis\nMERISE.\nBases de données.\nAnalyse des systèmes.\nDébouchés\nAnalyste fonctionnel.\nConcepteur SI.\nBusiness analyst.\nAnalyste-programmeur.\nConsultant SI.\n\nUn mémoire IGGLIA récent cite explicitement MERISE 2 au niveau L3, ce qui permet de confirmer au moins sa présence dans le cursus étudié."
+    },
+    {
+      "id": "IGGLIA_matiere_6",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "JavaScript",
+      "competences": [
+        "Programmation côté navigateur.",
+        "Manipulation du DOM.",
+        "Gestion des événements.",
+        "Programmation asynchrone.",
+        "Communication avec des API.",
+        "Développement d'interfaces dynamiques.",
+        "Compréhension de l'écosystème web moderne."
+      ],
+      "prerequis": [
+        "Algorithmique.",
+        "HTML/CSS.",
+        "Programmation.",
+        "Bases du web."
+      ],
+      "debouches": [
+        "Frontend developer.",
+        "Full-stack developer.",
+        "Web developer.",
+        "React developer.",
+        "Node.js developer."
+      ],
+      "texte_brut": "Compétences\nProgrammation côté navigateur.\nManipulation du DOM.\nGestion des événements.\nProgrammation asynchrone.\nCommunication avec des API.\nDéveloppement d'interfaces dynamiques.\nCompréhension de l'écosystème web moderne.\nPrérequis\nAlgorithmique.\nHTML/CSS.\nProgrammation.\nBases du web.\nDébouchés\nFrontend developer.\nFull-stack developer.\nWeb developer.\nReact developer.\nNode.js developer.\nRelation\n\nJavaScript → web frontend → frameworks → React/Angular/Vue → frontend/full-stack developer.\n\nLes travaux IGGLIA récents utilisent explicitement JavaScript, HTML/CSS, API, MVC, PHP et MySQL."
+    },
+    {
+      "id": "IGGLIA_matiere_7",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "PHP",
+      "competences": [
+        "Développement backend.",
+        "Création d'API.",
+        "Connexion aux bases de données.",
+        "Gestion des sessions.",
+        "Authentification.",
+        "Architecture MVC.",
+        "Développement d'applications web."
+      ],
+      "prerequis": [
+        "Programmation.",
+        "Bases de données.",
+        "HTML/CSS.",
+        "JavaScript."
+      ],
+      "debouches": [
+        "PHP developer.",
+        "Backend developer.",
+        "Full-stack developer.",
+        "Web developer.",
+        "Laravel/Symfony developer."
+      ],
+      "texte_brut": "Compétences\nDéveloppement backend.\nCréation d'API.\nConnexion aux bases de données.\nGestion des sessions.\nAuthentification.\nArchitecture MVC.\nDéveloppement d'applications web.\nPrérequis\nProgrammation.\nBases de données.\nHTML/CSS.\nJavaScript.\nDébouchés\nPHP developer.\nBackend developer.\nFull-stack developer.\nWeb developer.\nLaravel/Symfony developer.\nRelation\n\nPHP → backend → API → base de données → application web → développeur backend/full-stack.\n\nLa présence de PHP dans les cours/projets IGGLIA est attestée dans les sources étudiantes récentes."
+    },
+    {
+      "id": "IGGLIA_matiere_8",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Réseaux informatiques",
+      "competences": [
+        "Comprendre TCP/IP.",
+        "Configurer un réseau.",
+        "Comprendre LAN/WAN.",
+        "Adressage IP.",
+        "Routage.",
+        "Services réseau.",
+        "Communication client/serveur.",
+        "Notions de sécurité réseau."
+      ],
+      "prerequis": [
+        "Structures des ordinateurs.",
+        "Systèmes.",
+        "Mathématiques/logique."
+      ],
+      "debouches": [
+        "Administrateur réseau.",
+        "Network technician.",
+        "System administrator.",
+        "DevOps junior.",
+        "Cloud engineer junior.",
+        "Cybersecurity junior."
+      ],
+      "texte_brut": "Compétences\nComprendre TCP/IP.\nConfigurer un réseau.\nComprendre LAN/WAN.\nAdressage IP.\nRoutage.\nServices réseau.\nCommunication client/serveur.\nNotions de sécurité réseau.\nPrérequis\nStructures des ordinateurs.\nSystèmes.\nMathématiques/logique.\nDébouchés\nAdministrateur réseau.\nNetwork technician.\nSystem administrator.\nDevOps junior.\nCloud engineer junior.\nCybersecurity junior.\nRelation\n\nRéseaux → systèmes → serveurs → cloud/DevOps/cybersécurité."
+    },
+    {
+      "id": "IGGLIA_matiere_9",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Structures des ordinateurs",
+      "competences": [
+        "Comprendre CPU, RAM, stockage.",
+        "Comprendre les architectures informatiques.",
+        "Comprendre les périphériques.",
+        "Comprendre les échanges entre composants.",
+        "Diagnostiquer des problèmes matériels.",
+        "Comprendre les interactions hardware/software."
+      ],
+      "prerequis": [
+        "Mathématiques.",
+        "Physique élémentaire.",
+        "Informatique générale."
+      ],
+      "debouches": [
+        "Technicien informatique.",
+        "Administrateur système.",
+        "Support informatique.",
+        "DevOps junior.",
+        "Ingénieur systèmes."
+      ],
+      "texte_brut": "Compétences\nComprendre CPU, RAM, stockage.\nComprendre les architectures informatiques.\nComprendre les périphériques.\nComprendre les échanges entre composants.\nDiagnostiquer des problèmes matériels.\nComprendre les interactions hardware/software.\nPrérequis\nMathématiques.\nPhysique élémentaire.\nInformatique générale.\nDébouchés\nTechnicien informatique.\nAdministrateur système.\nSupport informatique.\nDevOps junior.\nIngénieur systèmes.\nPasserelle\n\nCette matière crée une passerelle naturelle vers ESIIA, qui est précisément orienté vers l'électronique, les structures informatiques et l'informatique. L'ISPM présente ESIIA comme une formation combinant électronique, structure des ordinateurs et applications fondamentales de l'informatique."
+    },
+    {
+      "id": "IGGLIA_matiere_10",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Électricité / Électronique",
+      "competences": [
+        "Comprendre les circuits.",
+        "Mesurer des grandeurs électriques.",
+        "Comprendre les composants électroniques.",
+        "Comprendre les signaux.",
+        "Comprendre l'interaction hardware/software."
+      ],
+      "prerequis": [
+        "Mathématiques.",
+        "Physique."
+      ],
+      "debouches": [
+        "Pour IGGLIA, ce n'est généralement pas le débouché principal, mais cela facilite une orientation vers :",
+        "systèmes embarqués ;",
+        "IoT ;",
+        "électronique ;",
+        "informatique industrielle ;",
+        "robotique."
+      ],
+      "texte_brut": "Compétences\nComprendre les circuits.\nMesurer des grandeurs électriques.\nComprendre les composants électroniques.\nComprendre les signaux.\nComprendre l'interaction hardware/software.\nPrérequis\nMathématiques.\nPhysique.\nDébouchés\n\nPour IGGLIA, ce n'est généralement pas le débouché principal, mais cela facilite une orientation vers :\n\nsystèmes embarqués ;\nIoT ;\nélectronique ;\ninformatique industrielle ;\nrobotique.\nPasserelle\n\nIGGLIA → ESIIA est une passerelle logique si l'étudiant souhaite se rapprocher du hardware et des systèmes embarqués.\n\nL'ISPM distingue justement IGGLIA et ESIIA au sein de la même mention Informatique et Télécommunications."
+    },
+    {
+      "id": "IGGLIA_matiere_11",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Mathématiques",
+      "competences": [
+        "Raisonnement logique.",
+        "Analyse.",
+        "Résolution de problèmes.",
+        "Modélisation.",
+        "Calcul.",
+        "Raisonnement abstrait.",
+        "Préparation aux statistiques et à l'IA."
+      ],
+      "prerequis": [
+        "Niveau mathématique du secondaire.",
+        "Algèbre.",
+        "Fonctions.",
+        "Logique."
+      ],
+      "debouches": [
+        "Les mathématiques ne donnent pas directement un métier, mais elles renforcent :",
+        "ingénieur logiciel ;",
+        "data analyst ;",
+        "data scientist ;",
+        "ingénieur IA ;",
+        "statisticien ;",
+        "chercheur."
+      ],
+      "texte_brut": "Compétences\nRaisonnement logique.\nAnalyse.\nRésolution de problèmes.\nModélisation.\nCalcul.\nRaisonnement abstrait.\nPréparation aux statistiques et à l'IA.\nPrérequis\nNiveau mathématique du secondaire.\nAlgèbre.\nFonctions.\nLogique.\nDébouchés indirects\n\nLes mathématiques ne donnent pas directement un métier, mais elles renforcent :\n\ningénieur logiciel ;\ndata analyst ;\ndata scientist ;\ningénieur IA ;\nstatisticien ;\nchercheur.\nPasserelle\n\nC'est particulièrement intéressant pour passer d'IGGLIA vers ISAIA, car ISAIA est orienté informatique, statistique appliquée et IA. L'ISPM présente ces deux parcours dans la même mention."
+    },
+    {
+      "id": "IGGLIA_matiere_12",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Algorithmique avancée",
+      "competences": [
+        "Algorithmes complexes.",
+        "Structures de données.",
+        "Optimisation.",
+        "Analyse de complexité.",
+        "Recherche algorithmique.",
+        "Résolution de problèmes complexes."
+      ],
+      "prerequis": [
+        "Algorithmique fondamentale.",
+        "Programmation.",
+        "Mathématiques."
+      ],
+      "debouches": [
+        "Software engineer.",
+        "Algorithm engineer.",
+        "Data engineer.",
+        "AI engineer.",
+        "R&D informatique."
+      ],
+      "texte_brut": "Compétences\nAlgorithmes complexes.\nStructures de données.\nOptimisation.\nAnalyse de complexité.\nRecherche algorithmique.\nRésolution de problèmes complexes.\nPrérequis\nAlgorithmique fondamentale.\nProgrammation.\nMathématiques.\nDébouchés\nSoftware engineer.\nAlgorithm engineer.\nData engineer.\nAI engineer.\nR&D informatique.\n\nUn mémoire IGGLIA récent cite explicitement Algorithmique avancée en L3."
+    },
+    {
+      "id": "IGGLIA_matiere_13",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Génie logiciel",
+      "competences": [
+        "Analyse des besoins.",
+        "Conception logicielle.",
+        "Architecture.",
+        "UML.",
+        "Tests.",
+        "Documentation.",
+        "Gestion des versions.",
+        "Maintenance.",
+        "Qualité logicielle.",
+        "Méthodes Agile."
+      ],
+      "prerequis": [
+        "Programmation.",
+        "Algorithmique.",
+        "Bases de données.",
+        "Modélisation."
+      ],
+      "debouches": [
+        "Software engineer.",
+        "Software architect junior.",
+        "Tech lead à terme.",
+        "Analyste-programmeur.",
+        "Chef de projet technique.",
+        "QA engineer."
+      ],
+      "texte_brut": "Compétences\nAnalyse des besoins.\nConception logicielle.\nArchitecture.\nUML.\nTests.\nDocumentation.\nGestion des versions.\nMaintenance.\nQualité logicielle.\nMéthodes Agile.\nPrérequis\nProgrammation.\nAlgorithmique.\nBases de données.\nModélisation.\nDébouchés\nSoftware engineer.\nSoftware architect junior.\nTech lead à terme.\nAnalyste-programmeur.\nChef de projet technique.\nQA engineer.\nRelation\n\nC'est probablement le cœur professionnel d'IGGLIA :\n\nAlgorithmique → programmation → BD → conception → génie logiciel → projet → ingénieur logiciel."
+    },
+    {
+      "id": "IGGLIA_matiere_14",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Gestion de la qualité",
+      "competences": [
+        "Contrôle qualité.",
+        "Tests logiciels.",
+        "Documentation.",
+        "Processus qualité.",
+        "Amélioration continue.",
+        "Identification des anomalies.",
+        "Suivi des standards."
+      ],
+      "prerequis": [
+        "Génie logiciel.",
+        "Gestion de projet.",
+        "Programmation."
+      ],
+      "debouches": [],
+      "texte_brut": "Compétences\nContrôle qualité.\nTests logiciels.\nDocumentation.\nProcessus qualité.\nAmélioration continue.\nIdentification des anomalies.\nSuivi des standards.\nPrérequis\nGénie logiciel.\nGestion de projet.\nProgrammation.\nDébouchés\nQA engineer.\nSoftware tester.\nQuality analyst.\nResponsable qualité informatique.\nConsultant qualité.\n\nLa matière Gestion de qualité est explicitement citée comme cours L3 dans le mémoire IGGLIA de 2025."
+    },
+    {
+      "id": "IGGLIA_matiere_15",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Intelligence artificielle",
+      "competences": [
+        "Résolution de problèmes par IA.",
+        "Machine learning.",
+        "Modélisation.",
+        "Traitement des données.",
+        "Classification/prédiction.",
+        "Évaluation de modèles.",
+        "Utilisation d'algorithmes d'IA."
+      ],
+      "prerequis": [
+        "Mathématiques.",
+        "Probabilités/statistiques.",
+        "Algorithmique.",
+        "Programmation.",
+        "Bases de données."
+      ],
+      "debouches": [
+        "AI developer.",
+        "Machine learning engineer.",
+        "Data scientist.",
+        "Data analyst orienté IA.",
+        "AI engineer.",
+        "R&D."
+      ],
+      "texte_brut": "Compétences\nRésolution de problèmes par IA.\nMachine learning.\nModélisation.\nTraitement des données.\nClassification/prédiction.\nÉvaluation de modèles.\nUtilisation d'algorithmes d'IA.\nPrérequis\nMathématiques.\nProbabilités/statistiques.\nAlgorithmique.\nProgrammation.\nBases de données.\nDébouchés\nAI developer.\nMachine learning engineer.\nData scientist.\nData analyst orienté IA.\nAI engineer.\nR&D.\nPasserelles\n\nIGGLIA ↔ ISAIA est probablement la passerelle la plus naturelle si l'étudiant souhaite renforcer fortement la partie statistiques/data.\n\nIGGLIA ↔ IMTICIA est intéressante pour l'IA appliquée au multimédia.\n\nIGGLIA ↔ ESIIA est intéressante pour l'IA appliquée aux systèmes embarqués.\n\nL'existence de ces quatre parcours au sein de la même mention est officiellement confirmée par l'ISPM."
+    },
+    {
+      "id": "IGGLIA_matiere_16",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Systèmes d'information",
+      "competences": [
+        "Analyse des besoins d'une entreprise.",
+        "Modélisation des processus.",
+        "Conception de SI.",
+        "Gestion des données.",
+        "Urbanisation des systèmes.",
+        "Intégration des applications."
+      ],
+      "prerequis": [
+        "MERISE.",
+        "Bases de données.",
+        "Programmation.",
+        "Gestion d'entreprise."
+      ],
+      "debouches": [
+        "Business analyst.",
+        "Analyste fonctionnel.",
+        "Consultant SI.",
+        "Chef de projet.",
+        "Concepteur SI.",
+        "ERP consultant."
+      ],
+      "texte_brut": "Compétences\nAnalyse des besoins d'une entreprise.\nModélisation des processus.\nConception de SI.\nGestion des données.\nUrbanisation des systèmes.\nIntégration des applications.\nPrérequis\nMERISE.\nBases de données.\nProgrammation.\nGestion d'entreprise.\nDébouchés\nBusiness analyst.\nAnalyste fonctionnel.\nConsultant SI.\nChef de projet.\nConcepteur SI.\nERP consultant.\n\nC'est directement lié à la vocation officielle d'IGGLIA : informatique appliquée à la gestion des entreprises."
+    },
+    {
+      "id": "IGGLIA_matiere_17",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Développement Web",
+      "competences": [
+        "Frontend.",
+        "Backend.",
+        "API.",
+        "Bases de données.",
+        "Authentification.",
+        "Sécurité web.",
+        "Architecture client/serveur.",
+        "Déploiement."
+      ],
+      "prerequis": [
+        "HTML/CSS.",
+        "JavaScript.",
+        "Programmation.",
+        "BD."
+      ],
+      "debouches": [],
+      "texte_brut": "Compétences\nFrontend.\nBackend.\nAPI.\nBases de données.\nAuthentification.\nSécurité web.\nArchitecture client/serveur.\nDéploiement.\nPrérequis\nHTML/CSS.\nJavaScript.\nProgrammation.\nBD.\nDébouchés\nFrontend developer.\nBackend developer.\nFull-stack developer.\nWeb engineer.\nSoftware engineer.\n\nLes projets officiels historiques de l'ISPM montrent de nombreux projets IGGLIA orientés sites web, e-commerce, logiciels de gestion et applications."
+    },
+    {
+      "id": "IGGLIA_matiere_18",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "UML / conception",
+      "competences": [
+        "Diagramme de classes.",
+        "Cas d'utilisation.",
+        "Séquences.",
+        "Activités.",
+        "Architecture.",
+        "Communication entre équipes techniques et fonctionnelles."
+      ],
+      "prerequis": [
+        "Programmation.",
+        "Analyse.",
+        "MERISE.",
+        "Génie logiciel."
+      ],
+      "debouches": [
+        "Analyste fonctionnel.",
+        "Software engineer.",
+        "Concepteur logiciel.",
+        "Business analyst.",
+        "Architecte logiciel junior."
+      ],
+      "texte_brut": "Compétences\nDiagramme de classes.\nCas d'utilisation.\nSéquences.\nActivités.\nArchitecture.\nCommunication entre équipes techniques et fonctionnelles.\nPrérequis\nProgrammation.\nAnalyse.\nMERISE.\nGénie logiciel.\nDébouchés\nAnalyste fonctionnel.\nSoftware engineer.\nConcepteur logiciel.\nBusiness analyst.\nArchitecte logiciel junior.\nRelation\n\nMERISE → UML → conception → génie logiciel → architecture."
+    },
+    {
+      "id": "IGGLIA_matiere_19",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Gestion de projet informatique",
+      "competences": [
+        "Planification.",
+        "Estimation.",
+        "Gestion des risques.",
+        "Suivi des tâches.",
+        "Gestion des équipes.",
+        "Gestion des délais.",
+        "Méthodes Agile/Scrum.",
+        "Communication avec le client."
+      ],
+      "prerequis": [
+        "Génie logiciel.",
+        "Expérience de projet.",
+        "Analyse."
+      ],
+      "debouches": [],
+      "texte_brut": "Compétences\nPlanification.\nEstimation.\nGestion des risques.\nSuivi des tâches.\nGestion des équipes.\nGestion des délais.\nMéthodes Agile/Scrum.\nCommunication avec le client.\nPrérequis\nGénie logiciel.\nExpérience de projet.\nAnalyse.\nDébouchés\nChef de projet junior.\nScrum Master.\nProduct Owner junior.\nProject manager.\nTech lead à terme."
+    },
+    {
+      "id": "IGGLIA_matiere_20",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Architecture logicielle",
+      "competences": [
+        "Concevoir des architectures robustes.",
+        "Séparer frontend/backend.",
+        "Concevoir des API.",
+        "Microservices.",
+        "Architecture monolithique.",
+        "Scalabilité.",
+        "Sécurité.",
+        "Performance.",
+        "Maintenabilité."
+      ],
+      "prerequis": [
+        "Programmation avancée.",
+        "BD.",
+        "Réseaux.",
+        "Génie logiciel."
+      ],
+      "debouches": [],
+      "texte_brut": "Compétences\nConcevoir des architectures robustes.\nSéparer frontend/backend.\nConcevoir des API.\nMicroservices.\nArchitecture monolithique.\nScalabilité.\nSécurité.\nPerformance.\nMaintenabilité.\nPrérequis\nProgrammation avancée.\nBD.\nRéseaux.\nGénie logiciel.\nDébouchés\nSoftware engineer.\nBackend engineer.\nSolution architect.\nSoftware architect.\nTech lead."
+    },
+    {
+      "id": "IGGLIA_matiere_21",
+      "parcours": [
+        "IGGLIA"
+      ],
+      "titre": "Sécurité informatique",
+      "competences": [
+        "Authentification.",
+        "Autorisation.",
+        "Chiffrement.",
+        "Sécurité réseau.",
+        "Sécurité web.",
+        "Protection des données.",
+        "Analyse des vulnérabilités."
+      ],
+      "prerequis": [
+        "Réseaux.",
+        "Programmation.",
+        "Systèmes.",
+        "Bases de données."
+      ],
+      "debouches": [
+        "Cybersecurity analyst.",
+        "Security engineer junior.",
+        "DevSecOps.",
+        "Security administrator."
+      ],
+      "texte_brut": "Compétences\nAuthentification.\nAutorisation.\nChiffrement.\nSécurité réseau.\nSécurité web.\nProtection des données.\nAnalyse des vulnérabilités.\nPrérequis\nRéseaux.\nProgrammation.\nSystèmes.\nBases de données.\nDébouchés\nCybersecurity analyst.\nSecurity engineer junior.\nDevSecOps.\nSecurity administrator.\nPasserelle\n\nIGGLIA → cybersécurité est une spécialisation professionnelle possible, même si la cybersécurité n'est pas ce qui définit principalement le parcours."
+    }
+  ],
+  "niveaux_diplomes": [
+    "Licence (3 ans + stage 3 mois)",
+    "Ingénieur (2 ans d'approfondissement + stage 6 mois)",
+    "Doctorat (recherche)"
+  ],
+  "passerelles": [
+    {
+      "from": "IGGLIA",
+      "to": "ISAIA",
+      "motif": "Data Science, ML, statistiques, IA"
+    },
+    {
+      "from": "IGGLIA",
+      "to": "ESIIA",
+      "motif": "IoT, embarqué, électronique, robotique"
+    },
+    {
+      "from": "IGGLIA",
+      "to": "IMTICIA",
+      "motif": "Multimédia, TIC, applications interactives"
+    },
+    {
+      "from": "IGGLIA",
+      "to": "ESIIA",
+      "motif": "Structures des ordinateurs / hardware"
+    }
+  ]
+}

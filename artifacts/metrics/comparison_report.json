@@ -1,0 +1,1464 @@
+{
+  "best_model": "random_forest",
+  "best_macro_f1": 0.867240446562397,
+  "selection_criterion": "macro_f1 on test",
+  "test_source": "synthetic_holdout",
+  "models": {
+    "baseline_logreg": {
+      "test": {
+        "accuracy": 0.8616666666666667,
+        "macro_f1": 0.855150939447099,
+        "weighted_f1": 0.8608935117833483,
+        "classification_report": {
+          "AEE": {
+            "precision": 0.9032258064516129,
+            "recall": 0.875,
+            "f1-score": 0.8888888888888888,
+            "support": 32.0
+          },
+          "CAA": {
+            "precision": 0.7096774193548387,
+            "recall": 0.5945945945945946,
+            "f1-score": 0.6470588235294118,
+            "support": 37.0
+          },
+          "DTJA": {
+            "precision": 0.9,
+            "recall": 0.9310344827586207,
+            "f1-score": 0.9152542372881356,
+            "support": 29.0
+          },
+          "EMII": {
+            "precision": 0.7368421052631579,
+            "recall": 0.7777777777777778,
+            "f1-score": 0.7567567567567568,
+            "support": 36.0
+          },
+          "EMP": {
+            "precision": 0.6571428571428571,
+            "recall": 0.6571428571428571,
+            "f1-score": 0.6571428571428571,
+            "support": 35.0
+          },
+          "ESIIA": {
+            "precision": 0.8461538461538461,
+            "recall": 0.88,
+            "f1-score": 0.8627450980392157,
+            "support": 50.0
+          },
+          "FIC": {
+            "precision": 0.9333333333333333,
+            "recall": 0.875,
+            "f1-score": 0.9032258064516129,
+            "support": 32.0
+          },
+          "GCA": {
+            "precision": 0.972972972972973,
+            "recall": 1.0,
+            "f1-score": 0.9863013698630136,
+            "support": 36.0
+          },
+          "IAA": {
+            "precision": 0.9393939393939394,
+            "recall": 0.8378378378378378,
+            "f1-score": 0.8857142857142857,
+            "support": 37.0
+          },
+          "ICMP": {
+            "precision": 0.9354838709677419,
+            "recall": 0.8529411764705882,
+            "f1-score": 0.8923076923076924,
+            "support": 34.0
+          },
+          "IGGLIA": {
+            "precision": 0.8873239436619719,
+            "recall": 0.9130434782608695,
+            "f1-score": 0.9,
+            "support": 69.0
+          },
+          "IMTICIA": {
+            "precision": 0.94,
+            "recall": 0.9791666666666666,
+            "f1-score": 0.9591836734693877,
+            "support": 48.0
+          },
+          "ISAIA": {
+            "precision": 0.9534883720930233,
+            "recall": 0.9318181818181818,
+            "f1-score": 0.9425287356321839,
+            "support": 44.0
+          },
+          "PIP": {
+            "precision": 0.78125,
+            "recall": 0.8620689655172413,
+            "f1-score": 0.819672131147541,
+            "support": 29.0
+          },
+          "TEE": {
+            "precision": 0.8,
+            "recall": 0.8888888888888888,
+            "f1-score": 0.8421052631578947,
+            "support": 27.0
+          },
+          "TEH": {
+            "precision": 0.8076923076923077,
+            "recall": 0.84,
+            "f1-score": 0.8235294117647058,
+            "support": 25.0
+          },
+          "accuracy": 0.8616666666666667,
+          "macro avg": {
+            "precision": 0.8564987984051002,
+            "recall": 0.8560196817333827,
+            "f1-score": 0.855150939447099,
+            "support": 600.0
+          },
+          "weighted avg": {
+            "precision": 0.8621673627683268,
+            "recall": 0.8616666666666667,
+            "f1-score": 0.8608935117833483,
+            "support": 600.0
+          }
+        },
+        "confusion_matrix": [
+          [
+            28,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            22,
+            0,
+            2,
+            8,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            1,
+            27,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            28,
+            0,
+            5,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            8,
+            1,
+            0,
+            23,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            5,
+            0,
+            44,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            28,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            36,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            2,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            31,
+            0,
+            0,
+            0,
+            0,
+            2,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            29,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            63,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            47,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            41,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            25,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            24,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            2,
+            21
+          ]
+        ],
+        "labels": [
+          "AEE",
+          "CAA",
+          "DTJA",
+          "EMII",
+          "EMP",
+          "ESIIA",
+          "FIC",
+          "GCA",
+          "IAA",
+          "ICMP",
+          "IGGLIA",
+          "IMTICIA",
+          "ISAIA",
+          "PIP",
+          "TEE",
+          "TEH"
+        ],
+        "top_3_accuracy": 0.9466666666666667,
+        "errors": {
+          "top_confusions": [
+            {
+              "true": "CAA",
+              "predicted": "EMP",
+              "count": 8
+            },
+            {
+              "true": "EMP",
+              "predicted": "CAA",
+              "count": 8
+            },
+            {
+              "true": "EMII",
+              "predicted": "ESIIA",
+              "count": 5
+            },
+            {
+              "true": "ESIIA",
+              "predicted": "EMII",
+              "count": 5
+            },
+            {
+              "true": "CAA",
+              "predicted": "EMII",
+              "count": 2
+            },
+            {
+              "true": "CAA",
+              "predicted": "IGGLIA",
+              "count": 2
+            },
+            {
+              "true": "CAA",
+              "predicted": "TEH",
+              "count": 2
+            },
+            {
+              "true": "EMP",
+              "predicted": "IGGLIA",
+              "count": 2
+            },
+            {
+              "true": "IAA",
+              "predicted": "AEE",
+              "count": 2
+            },
+            {
+              "true": "IAA",
+              "predicted": "PIP",
+              "count": 2
+            }
+          ],
+          "n_errors": 83
+        }
+      }
+    },
+    "random_forest": {
+      "test": {
+        "accuracy": 0.875,
+        "macro_f1": 0.867240446562397,
+        "weighted_f1": 0.8727135072257571,
+        "classification_report": {
+          "AEE": {
+            "precision": 0.9285714285714286,
+            "recall": 0.8125,
+            "f1-score": 0.8666666666666667,
+            "support": 32.0
+          },
+          "CAA": {
+            "precision": 0.7073170731707317,
+            "recall": 0.7837837837837838,
+            "f1-score": 0.7435897435897436,
+            "support": 37.0
+          },
+          "DTJA": {
+            "precision": 0.8709677419354839,
+            "recall": 0.9310344827586207,
+            "f1-score": 0.9,
+            "support": 29.0
+          },
+          "EMII": {
+            "precision": 0.7857142857142857,
+            "recall": 0.9166666666666666,
+            "f1-score": 0.8461538461538461,
+            "support": 36.0
+          },
+          "EMP": {
+            "precision": 0.7391304347826086,
+            "recall": 0.4857142857142857,
+            "f1-score": 0.5862068965517241,
+            "support": 35.0
+          },
+          "ESIIA": {
+            "precision": 0.9183673469387755,
+            "recall": 0.9,
+            "f1-score": 0.9090909090909091,
+            "support": 50.0
+          },
+          "FIC": {
+            "precision": 0.8484848484848485,
+            "recall": 0.875,
+            "f1-score": 0.8615384615384616,
+            "support": 32.0
+          },
+          "GCA": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 36.0
+          },
+          "IAA": {
+            "precision": 0.9117647058823529,
+            "recall": 0.8378378378378378,
+            "f1-score": 0.8732394366197183,
+            "support": 37.0
+          },
+          "ICMP": {
+            "precision": 0.967741935483871,
+            "recall": 0.8823529411764706,
+            "f1-score": 0.9230769230769231,
+            "support": 34.0
+          },
+          "IGGLIA": {
+            "precision": 0.875,
+            "recall": 0.9130434782608695,
+            "f1-score": 0.8936170212765957,
+            "support": 69.0
+          },
+          "IMTICIA": {
+            "precision": 0.94,
+            "recall": 0.9791666666666666,
+            "f1-score": 0.9591836734693877,
+            "support": 48.0
+          },
+          "ISAIA": {
+            "precision": 0.9534883720930233,
+            "recall": 0.9318181818181818,
+            "f1-score": 0.9425287356321839,
+            "support": 44.0
+          },
+          "PIP": {
+            "precision": 0.8387096774193549,
+            "recall": 0.896551724137931,
+            "f1-score": 0.8666666666666667,
+            "support": 29.0
+          },
+          "TEE": {
+            "precision": 0.8214285714285714,
+            "recall": 0.8518518518518519,
+            "f1-score": 0.8363636363636363,
+            "support": 27.0
+          },
+          "TEH": {
+            "precision": 0.8214285714285714,
+            "recall": 0.92,
+            "f1-score": 0.8679245283018868,
+            "support": 25.0
+          },
+          "accuracy": 0.875,
+          "macro avg": {
+            "precision": 0.8705071870833692,
+            "recall": 0.8698326187920729,
+            "f1-score": 0.867240446562397,
+            "support": 600.0
+          },
+          "weighted avg": {
+            "precision": 0.8758201976582167,
+            "recall": 0.875,
+            "f1-score": 0.8727135072257571,
+            "support": 600.0
+          }
+        },
+        "confusion_matrix": [
+          [
+            26,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            29,
+            0,
+            2,
+            2,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            27,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            33,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            12,
+            1,
+            0,
+            17,
+            1,
+            1,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            4,
+            0,
+            45,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            2,
+            1,
+            28,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            36,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            2,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            31,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            30,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            63,
+            2,
+            0,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            47,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            41,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            26,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            23,
+            2
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            23
+          ]
+        ],
+        "labels": [
+          "AEE",
+          "CAA",
+          "DTJA",
+          "EMII",
+          "EMP",
+          "ESIIA",
+          "FIC",
+          "GCA",
+          "IAA",
+          "ICMP",
+          "IGGLIA",
+          "IMTICIA",
+          "ISAIA",
+          "PIP",
+          "TEE",
+          "TEH"
+        ],
+        "top_3_accuracy": 0.95,
+        "errors": {
+          "top_confusions": [
+            {
+              "true": "EMP",
+              "predicted": "CAA",
+              "count": 12
+            },
+            {
+              "true": "ESIIA",
+              "predicted": "EMII",
+              "count": 4
+            },
+            {
+              "true": "EMP",
+              "predicted": "IGGLIA",
+              "count": 3
+            },
+            {
+              "true": "CAA",
+              "predicted": "EMII",
+              "count": 2
+            },
+            {
+              "true": "CAA",
+              "predicted": "EMP",
+              "count": 2
+            },
+            {
+              "true": "CAA",
+              "predicted": "IGGLIA",
+              "count": 2
+            },
+            {
+              "true": "FIC",
+              "predicted": "EMP",
+              "count": 2
+            },
+            {
+              "true": "IAA",
+              "predicted": "AEE",
+              "count": 2
+            },
+            {
+              "true": "IAA",
+              "predicted": "TEE",
+              "count": 2
+            },
+            {
+              "true": "ICMP",
+              "predicted": "IAA",
+              "count": 2
+            }
+          ],
+          "n_errors": 75
+        }
+      }
+    },
+    "hist_gradient_boosting": {
+      "test": {
+        "accuracy": 0.8633333333333333,
+        "macro_f1": 0.86073191789067,
+        "weighted_f1": 0.8624672911067565,
+        "classification_report": {
+          "AEE": {
+            "precision": 0.9,
+            "recall": 0.84375,
+            "f1-score": 0.8709677419354839,
+            "support": 32.0
+          },
+          "CAA": {
+            "precision": 0.7027027027027027,
+            "recall": 0.7027027027027027,
+            "f1-score": 0.7027027027027027,
+            "support": 37.0
+          },
+          "DTJA": {
+            "precision": 0.9032258064516129,
+            "recall": 0.9655172413793104,
+            "f1-score": 0.9333333333333333,
+            "support": 29.0
+          },
+          "EMII": {
+            "precision": 0.7142857142857143,
+            "recall": 0.8333333333333334,
+            "f1-score": 0.7692307692307693,
+            "support": 36.0
+          },
+          "EMP": {
+            "precision": 0.6896551724137931,
+            "recall": 0.5714285714285714,
+            "f1-score": 0.625,
+            "support": 35.0
+          },
+          "ESIIA": {
+            "precision": 0.8936170212765957,
+            "recall": 0.84,
+            "f1-score": 0.865979381443299,
+            "support": 50.0
+          },
+          "FIC": {
+            "precision": 0.875,
+            "recall": 0.875,
+            "f1-score": 0.875,
+            "support": 32.0
+          },
+          "GCA": {
+            "precision": 1.0,
+            "recall": 0.9722222222222222,
+            "f1-score": 0.9859154929577465,
+            "support": 36.0
+          },
+          "IAA": {
+            "precision": 0.8857142857142857,
+            "recall": 0.8378378378378378,
+            "f1-score": 0.8611111111111112,
+            "support": 37.0
+          },
+          "ICMP": {
+            "precision": 0.9090909090909091,
+            "recall": 0.8823529411764706,
+            "f1-score": 0.8955223880597015,
+            "support": 34.0
+          },
+          "IGGLIA": {
+            "precision": 0.8611111111111112,
+            "recall": 0.8985507246376812,
+            "f1-score": 0.8794326241134752,
+            "support": 69.0
+          },
+          "IMTICIA": {
+            "precision": 0.94,
+            "recall": 0.9791666666666666,
+            "f1-score": 0.9591836734693877,
+            "support": 48.0
+          },
+          "ISAIA": {
+            "precision": 0.9285714285714286,
+            "recall": 0.8863636363636364,
+            "f1-score": 0.9069767441860465,
+            "support": 44.0
+          },
+          "PIP": {
+            "precision": 0.8387096774193549,
+            "recall": 0.896551724137931,
+            "f1-score": 0.8666666666666667,
+            "support": 29.0
+          },
+          "TEE": {
+            "precision": 0.8571428571428571,
+            "recall": 0.8888888888888888,
+            "f1-score": 0.8727272727272727,
+            "support": 27.0
+          },
+          "TEH": {
+            "precision": 0.8846153846153846,
+            "recall": 0.92,
+            "f1-score": 0.9019607843137255,
+            "support": 25.0
+          },
+          "accuracy": 0.8633333333333333,
+          "macro avg": {
+            "precision": 0.8614651294247344,
+            "recall": 0.8621041556734532,
+            "f1-score": 0.86073191789067,
+            "support": 600.0
+          },
+          "weighted avg": {
+            "precision": 0.8636362793457116,
+            "recall": 0.8633333333333333,
+            "f1-score": 0.8624672911067565,
+            "support": 600.0
+          }
+        },
+        "confusion_matrix": [
+          [
+            27,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            26,
+            0,
+            2,
+            5,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            28,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            30,
+            0,
+            2,
+            1,
+            0,
+            1,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            9,
+            1,
+            0,
+            20,
+            1,
+            1,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            7,
+            0,
+            42,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            28,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            2,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            31,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            62,
+            1,
+            0,
+            2,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            47,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            1,
+            39,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            26,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            24,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            23
+          ]
+        ],
+        "labels": [
+          "AEE",
+          "CAA",
+          "DTJA",
+          "EMII",
+          "EMP",
+          "ESIIA",
+          "FIC",
+          "GCA",
+          "IAA",
+          "ICMP",
+          "IGGLIA",
+          "IMTICIA",
+          "ISAIA",
+          "PIP",
+          "TEE",
+          "TEH"
+        ],
+        "top_3_accuracy": 0.945,
+        "errors": {
+          "top_confusions": [
+            {
+              "true": "EMP",
+              "predicted": "CAA",
+              "count": 9
+            },
+            {
+              "true": "ESIIA",
+              "predicted": "EMII",
+              "count": 7
+            },
+            {
+              "true": "CAA",
+              "predicted": "EMP",
+              "count": 5
+            },
+            {
+              "true": "EMP",
+              "predicted": "IGGLIA",
+              "count": 3
+            },
+            {
+              "true": "ISAIA",
+              "predicted": "IGGLIA",
+              "count": 3
+            },
+            {
+              "true": "CAA",
+              "predicted": "EMII",
+              "count": 2
+            },
+            {
+              "true": "CAA",
+              "predicted": "IGGLIA",
+              "count": 2
+            },
+            {
+              "true": "EMII",
+              "predicted": "ESIIA",
+              "count": 2
+            },
+            {
+              "true": "EMII",
+              "predicted": "ICMP",
+              "count": 2
+            },
+            {
+              "true": "IAA",
+              "predicted": "AEE",
+              "count": 2
+            }
+          ],
+          "n_errors": 82
+        }
+      }
+    }
+  },
+  "artifacts": {
+    "best_model": "/Users/macbook/Documents/projet/Orient'IA/artifacts/models/best_model.joblib",
+    "confusion_matrix": "/Users/macbook/Documents/projet/Orient'IA/artifacts/metrics/confusion_matrix.png",
+    "eda": "/Users/macbook/Documents/projet/Orient'IA/artifacts/metrics/eda_summary.json"
+  },
+  "limits": [
+    "Entraînement majoritairement sur données synthétiques dérivées du corpus : risque de sur-ajustement aux centroïdes.",
+    "Sans enquête réelle suffisante, la généralisation vers profils humains n'est pas encore mesurée.",
+    "Catalogue élargi à 16 parcours ISPM ; détail corpus inégal (IGGLIA riche, ICMP peu documenté)."
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "source": "corpusISPMNote",
+  "consultation_date": "2026-08-27",
+  "statut": "institutionnel_compile",
+  "limites": [
+    "Détail matières/compétences/débouchés très développé pour IGGLIA ; les autres parcours reposent surtout sur les matières principales listées.",
+    "ICMP n'a pas de détail matière dédié au-delà de la mention Génie Industriel.",
+    "Sources mixtes (site ISPM + notes pédagogiques compilées) — ne pas présenter chaque détail comme brochure officielle sans vérification."
+  ],
+  "niveaux": [
+    "Licence (3 ans + stage 3 mois)",
+    "Ingénieur (2 ans d'approfondissement + stage 6 mois)",
+    "Doctorat (recherche)"
+  ],
+  "mentions": [
+    {
+      "code": "INFO_TELECOM",
+      "nom": "Informatique et Télécommunications",
+      "parcours": [
+        {
+          "code": "IGGLIA",
+          "nom": "Informatique de Gestion Génie Logiciel et Intelligence Artificielle",
+          "matieres_principales": ["mathematiques", "algorithmique", "programmation", "bases_de_donnees", "genie_logiciel", "systemes", "ia", "informatique_gestion"],
+          "axes_forts": ["programmation", "gestion", "genie_logiciel", "web", "si"]
+        },
+        {
+          "code": "ESIIA",
+          "nom": "Electronique Système Informatique et Intelligence Artificielle",
+          "matieres_principales": ["mathematiques", "electricite", "electronique", "informatique", "systemes", "reseaux", "ia"],
+          "axes_forts": ["electronique", "systemes", "hardware", "embarque"]
+        },
+        {
+          "code": "IMTICIA",
+          "nom": "Informatique Multimédia Technologie de l'Information et de la Communication et Intelligence Artificielle",
+          "matieres_principales": ["informatique", "programmation", "multimedia", "tic", "telecommunications", "technologies_numeriques", "ia"],
+          "axes_forts": ["multimedia", "design", "communication", "web"]
+        },
+        {
+          "code": "ISAIA",
+          "nom": "Informatique Statistique Appliquée et Intelligence Artificielle",
+          "matieres_principales": ["mathematiques", "statistiques", "probabilites", "informatique", "analyse_de_donnees", "ia"],
+          "axes_forts": ["mathematiques", "statistiques", "data", "analyse"]
+        }
+      ]
+    },
+    {
+      "code": "GENIE_INDUSTRIEL",
+      "nom": "Génie Industriel",
+      "parcours": [
+        {
+          "code": "EMII",
+          "nom": "Electro-Mécanique et Informatique Industrielle",
+          "matieres_principales": ["mathematiques", "physique", "mecanique", "electricite", "electromecanique", "automatisme", "informatique_industrielle"],
+          "axes_forts": ["mecanique", "automatisme", "industrie", "hardware"]
+        },
+        {
+          "code": "ICMP",
+          "nom": "Industries Chimiques, Minières et Pétrolières",
+          "matieres_principales": ["mathematiques", "chimie", "physique", "procedes_industriels"],
+          "axes_forts": ["chimie", "industrie", "procedes"]
+        }
+      ]
+    },
+    {
+      "code": "GENIE_CIVIL",
+      "nom": "Génie Civil et Architecture",
+      "parcours": [
+        {
+          "code": "GCA",
+          "nom": "Génie Civil et Architecture",
+          "matieres_principales": ["mathematiques", "physique", "resistance_materiaux", "construction", "architecture", "genie_civil"],
+          "axes_forts": ["construction", "architecture", "physique"]
+        }
+      ]
+    },
+    {
+      "code": "DROIT_AFFAIRES",
+      "nom": "Droit et Techniques des Affaires",
+      "parcours": [
+        {
+          "code": "CAA",
+          "nom": "Commerce et Administration des Affaires",
+          "matieres_principales": ["francais", "mathematiques", "economie", "gestion", "commerce"],
+          "axes_forts": ["commerce", "gestion", "economie"]
+        },
+        {
+          "code": "EMP",
+          "nom": "Economie et Management de Projet",
+          "matieres_principales": ["francais", "mathematiques", "economie", "gestion", "management_projet"],
+          "axes_forts": ["economie", "gestion", "projet"]
+        },
+        {
+          "code": "FIC",
+          "nom": "Finances et Comptabilités",
+          "matieres_principales": ["francais", "mathematiques", "economie", "comptabilite", "finance"],
+          "axes_forts": ["finance", "comptabilite", "economie"]
+        },
+        {
+          "code": "DTJA",
+          "nom": "Droit et Techniques Juridiques des Affaires",
+          "matieres_principales": ["francais", "mathematiques", "economie", "droit", "techniques_juridiques"],
+          "axes_forts": ["droit", "affaires", "juridique"]
+        }
+      ]
+    },
+    {
+      "code": "BIOTECH_AGRO",
+      "nom": "Biotechnologie et Agronomie",
+      "parcours": [
+        {
+          "code": "IAA",
+          "nom": "Industrie Agroalimentaire",
+          "matieres_principales": ["mathematiques", "biologie", "chimie", "agroalimentaire"],
+          "axes_forts": ["agroalimentaire", "biologie", "chimie"]
+        },
+        {
+          "code": "AEE",
+          "nom": "Agriculture et Elevage",
+          "matieres_principales": ["mathematiques", "biologie", "sciences_agronomiques", "elevage"],
+          "axes_forts": ["agriculture", "elevage", "biologie"]
+        },
+        {
+          "code": "PIP",
+          "nom": "Pharmacologie et Industries Pharmaceutiques",
+          "matieres_principales": ["mathematiques", "biologie", "chimie", "pharmacologie"],
+          "axes_forts": ["pharmacologie", "chimie", "biologie"]
+        }
+      ]
+    },
+    {
+      "code": "TOURISME",
+      "nom": "Tourisme",
+      "parcours": [
+        {
+          "code": "TEE",
+          "nom": "Tourisme et Environnement",
+          "matieres_principales": ["langues", "histoire_geo", "svt", "tourisme", "environnement"],
+          "axes_forts": ["tourisme", "environnement", "langues"]
+        },
+        {
+          "code": "TEH",
+          "nom": "Tourisme et Hôtellerie",
+          "matieres_principales": ["langues", "tourisme", "hotellerie", "culture_touristique"],
+          "axes_forts": ["hotellerie", "tourisme", "langues"]
+        }
+      ]
+    }
+  ],
+  "passerelles": [
+    {"from": "IGGLIA", "to": "ISAIA", "motif": "Data Science, ML, statistiques, IA"},
+    {"from": "IGGLIA", "to": "ESIIA", "motif": "IoT, embarqué, électronique, robotique"},
+    {"from": "IGGLIA", "to": "IMTICIA", "motif": "Multimédia, TIC, applications interactives"},
+    {"from": "IGGLIA", "to": "ESIIA", "motif": "Structures des ordinateurs / hardware"}
+  ],
+  "note": "Catalogue dérivé de corpusISPMNote. Extensible quand le corpus officiel sera enrichi."
+}

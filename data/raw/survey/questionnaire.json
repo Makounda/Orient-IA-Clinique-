@@ -1,0 +1,150 @@
+{
+  "titre": "Enquête Orient'IA — profil et parcours",
+  "version": "2.0",
+  "date_version": "2026-08-27",
+  "populations": ["student", "professional"],
+  "langue": "fr",
+  "alignement_corpus": "parcours_labels.json dérivé de corpusISPMNote",
+  "questions": [
+    {
+      "id": "consentement",
+      "type": "boolean",
+      "obligatoire": true,
+      "texte": "J'ai lu le texte de consentement et j'accepte de participer de façon anonyme."
+    },
+    {
+      "id": "population",
+      "type": "single_choice",
+      "obligatoire": true,
+      "texte": "Vous êtes :",
+      "options": [
+        {"value": "student", "label": "Étudiant·e (ou récemment inscrit·e)"},
+        {"value": "professional", "label": "Professionnel·le déjà établi·e"}
+      ]
+    },
+    {"id": "score_maths", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour les mathématiques"},
+    {"id": "score_prog", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour la programmation / algorithmique"},
+    {"id": "score_stats", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour les statistiques / analyse de données"},
+    {"id": "score_design", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour le design / multimédia / architecture visuelle"},
+    {"id": "score_electronique", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour l'électronique / systèmes embarqués"},
+    {"id": "score_gestion", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour la gestion / organisation / SI"},
+    {"id": "score_physique", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour la physique / mécanique / construction"},
+    {"id": "score_sciences_vie", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour biologie / chimie / sciences de la vie"},
+    {"id": "score_langues", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour les langues / communication"},
+    {"id": "score_droit_eco", "type": "scale", "min": 0, "max": 10, "texte": "Affinité pour le droit / économie / commerce"},
+    {
+      "id": "note_moyenne",
+      "type": "number",
+      "min": 0,
+      "max": 20,
+      "texte": "Note moyenne approximative (bac ou équivalent /20)"
+    },
+    {
+      "id": "competences",
+      "type": "multi_choice",
+      "texte": "Compétences déjà pratiquées",
+      "options": [
+        {"value": "comp_python", "label": "Python / scripts"},
+        {"value": "comp_web", "label": "Développement web"},
+        {"value": "comp_data", "label": "Data / statistiques"},
+        {"value": "comp_hardware", "label": "Hardware / électronique"},
+        {"value": "comp_design", "label": "Design / multimédia"},
+        {"value": "comp_gestion", "label": "Gestion de projet / SI"},
+        {"value": "comp_labo", "label": "Travail de laboratoire / atelier"}
+      ]
+    },
+    {
+      "id": "interets",
+      "type": "multi_choice",
+      "texte": "Centres d'intérêt",
+      "options": [
+        {"value": "interet_ia", "label": "Intelligence artificielle"},
+        {"value": "interet_jeux", "label": "Jeux vidéo"},
+        {"value": "interet_finance", "label": "Finance / banque"},
+        {"value": "interet_multimedia", "label": "Multimédia / création"},
+        {"value": "interet_reseaux", "label": "Réseaux / systèmes"},
+        {"value": "interet_recherche", "label": "Recherche / R&D"},
+        {"value": "interet_industrie", "label": "Industrie / automatisme"},
+        {"value": "interet_construction", "label": "BTP / architecture"},
+        {"value": "interet_agro", "label": "Agro / pharma / biotech"},
+        {"value": "interet_tourisme", "label": "Tourisme / hôtellerie"},
+        {"value": "interet_droit", "label": "Droit / affaires"}
+      ]
+    },
+    {
+      "id": "pref_environnement",
+      "type": "single_choice",
+      "texte": "Environnement de travail recherché",
+      "options": [
+        {"value": "bureau", "label": "Bureau"},
+        {"value": "labo", "label": "Laboratoire"},
+        {"value": "atelier", "label": "Atelier"},
+        {"value": "terrain", "label": "Terrain"},
+        {"value": "chantier", "label": "Chantier"},
+        {"value": "remote", "label": "Remote"},
+        {"value": "startup", "label": "Startup / agence"}
+      ]
+    },
+    {
+      "id": "pref_professionnelle",
+      "type": "single_choice",
+      "texte": "Orientation professionnelle la plus proche",
+      "options": [
+        {"value": "developpement_logiciel", "label": "Développement logiciel"},
+        {"value": "data_science", "label": "Data science"},
+        {"value": "electronique_embarque", "label": "Électronique / embarqué"},
+        {"value": "multimedia_ux", "label": "Multimédia / UX"},
+        {"value": "gestion_projet_si", "label": "Gestion de projet SI"},
+        {"value": "recherche_appliquee", "label": "Recherche appliquée"},
+        {"value": "industrie_automatisme", "label": "Industrie / automatisme"},
+        {"value": "chimie_procedes", "label": "Chimie / procédés"},
+        {"value": "genie_civil_archi", "label": "Génie civil / architecture"},
+        {"value": "commerce_gestion", "label": "Commerce / gestion"},
+        {"value": "finance_compta", "label": "Finance / compta"},
+        {"value": "droit_affaires", "label": "Droit des affaires"},
+        {"value": "agroalimentaire", "label": "Agroalimentaire"},
+        {"value": "agriculture_elevage", "label": "Agriculture / élevage"},
+        {"value": "pharmacie", "label": "Pharmacie"},
+        {"value": "tourisme_hotellerie", "label": "Tourisme / hôtellerie"}
+      ]
+    },
+    {
+      "id": "parcours_recommande",
+      "type": "single_choice",
+      "obligatoire": true,
+      "texte": "Parcours suivi ou jugé le plus adapté",
+      "options": [
+        {"value": "IGGLIA", "label": "IGGLIA"},
+        {"value": "ESIIA", "label": "ESIIA"},
+        {"value": "IMTICIA", "label": "IMTICIA"},
+        {"value": "ISAIA", "label": "ISAIA"},
+        {"value": "EMII", "label": "EMII"},
+        {"value": "ICMP", "label": "ICMP"},
+        {"value": "GCA", "label": "GCA"},
+        {"value": "CAA", "label": "CAA"},
+        {"value": "EMP", "label": "EMP"},
+        {"value": "FIC", "label": "FIC"},
+        {"value": "DTJA", "label": "DTJA"},
+        {"value": "IAA", "label": "IAA"},
+        {"value": "AEE", "label": "AEE"},
+        {"value": "PIP", "label": "PIP"},
+        {"value": "TEE", "label": "TEE"},
+        {"value": "TEH", "label": "TEH"}
+      ]
+    },
+    {
+      "id": "satisfaction_adequation",
+      "type": "scale",
+      "min": 1,
+      "max": 5,
+      "texte": "Satisfaction / adéquation perçue (1–5)"
+    },
+    {
+      "id": "metier_actuel",
+      "type": "text",
+      "populations": ["professional"],
+      "texte": "Métier actuel (libellé libre, anonymisé)"
+    }
+  ],
+  "champs_exclus": ["nom", "email", "téléphone", "sexe", "âge exact", "religion", "origine", "santé"]
+}

@@ -1,0 +1,26 @@
+CONSENTEMENT ÉCLAIRÉ — Enquête Orient'IA
+
+Vous êtes invité·e à participer à une enquête dans le cadre du projet pédagogique Orient'IA
+(assistant d'aide à l'orientation — ISPM / examen de fin d'études).
+
+Objectifs
+- Mieux comprendre le lien entre profil déclaré (intérêts, compétences, préférences) et parcours
+  de formation suivi ou jugé adapté.
+- Constituer un jeu de validation / test pour un modèle d'aide à l'orientation.
+
+Participation
+- Volontaire ; vous pouvez arrêter à tout moment.
+- Durée estimée : 5 à 10 minutes.
+- Aucune donnée personnelle sensible n'est demandée (pas de nom, email, téléphone, sexe,
+  âge exact, religion, origine, santé, etc.).
+
+Anonymisation
+- Les réponses sont stockées avec un identifiant anonyme (anonymized_id).
+- Aucun profilage psychologique n'est réalisé à partir de votre style d'écriture.
+
+Usage des données
+- Usage pédagogique et scientifique du projet Orient'IA uniquement.
+- Les résultats pourront être agrégés dans des rapports d'évaluation du modèle.
+
+En cochant « J'accepte », vous confirmez avoir lu ce texte et consentir à la collecte
+anonyme de vos réponses dans les conditions ci-dessus.

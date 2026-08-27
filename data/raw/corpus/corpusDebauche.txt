@@ -1,0 +1,786 @@
+1. 💻 Informatique & Télécommunications
+1.1 IGGLIA
+
+Informatique de Gestion, Génie Logiciel et Intelligence Artificielle
+
+L'ISPM indique que cette formation vise notamment la maîtrise des techniques informatiques relatives à la gestion des entreprises.
+
+Débouchés
+
+Développement
+
+Développeur logiciel
+Développeur web
+Développeur frontend
+Développeur backend
+Développeur full-stack
+Développeur mobile
+Développeur d'applications métier
+Software Engineer
+
+Systèmes d'information
+
+Analyste-programmeur
+Analyste informatique
+Analyste fonctionnel
+Business Analyst
+Consultant en systèmes d'information
+Concepteur de systèmes d'information
+Consultant ERP
+
+Génie logiciel
+
+Ingénieur logiciel
+Software Engineer
+Software Architect (avec expérience)
+Tech Lead (avec expérience)
+QA Engineer
+Testeur logiciel
+
+Données / IA
+
+Data Analyst
+Data Engineer junior
+AI Developer
+Machine Learning Engineer (avec spécialisation)
+AI Engineer (avec spécialisation)
+
+Gestion de projet
+
+Chef de projet informatique
+Scrum Master
+Product Owner
+Responsable informatique
+
+Autres
+
+DevOps Engineer (avec spécialisation)
+DevSecOps (avec spécialisation)
+Consultant informatique
+Entrepreneur / créateur de startup
+
+Les projets présentés par l'ISPM montrent effectivement des réalisations IGGLIA dans les logiciels de gestion, e-commerce, sites web, gestion financière, etc.
+
+2. ⚡ ESIIA
+
+Électronique, Système Informatique et Intelligence Artificielle
+
+Cette filière combine électronique, structure des ordinateurs et informatique.
+
+Débouchés
+
+Électronique
+
+Ingénieur électronique
+Technicien électronique
+Concepteur électronique
+Ingénieur systèmes électroniques
+Technicien de maintenance électronique
+
+Informatique
+
+Ingénieur systèmes
+Administrateur systèmes
+Technicien informatique
+Ingénieur informatique
+
+Télécommunications
+
+Ingénieur télécom
+Technicien télécom
+Administrateur réseaux
+Network Engineer
+
+Systèmes embarqués
+
+Embedded Systems Engineer
+Développeur systèmes embarqués
+Ingénieur IoT
+IoT Developer
+Ingénieur robotique
+
+IA
+
+AI Engineer
+AI Developer
+Machine Learning Engineer (avec spécialisation)
+
+Maintenance
+
+Ingénieur maintenance informatique
+Technicien maintenance hardware
+Responsable maintenance informatique
+3. 🎨 IMTICIA
+
+Informatique Multimédia, Technologies de l'Information et de la Communication et Intelligence Artificielle
+
+L'ISPM oriente cette filière vers le multimédia, les nouvelles technologies de l'information et les télécommunications.
+
+Débouchés
+
+Développement
+
+Développeur web
+Frontend Developer
+Full-stack Developer
+Développeur multimédia
+Développeur d'applications
+Développeur mobile
+
+Multimédia
+
+Développeur multimédia
+Motion Designer
+Infographiste
+Designer multimédia
+Concepteur multimédia
+Technicien audiovisuel
+
+Web / digital
+
+Web Designer
+UX/UI Designer
+Digital Content Developer
+Webmaster
+
+Communication numérique
+
+Community Manager
+Digital Communication Specialist
+Responsable communication digitale
+
+Technologies
+
+Administrateur réseau
+Technicien TIC
+Consultant TIC
+Intégrateur multimédia
+
+IA
+
+AI Developer
+AI-assisted content developer
+Data/AI junior (avec spécialisation)
+4. 📊 ISAIA
+
+Informatique, Statistique Appliquée et Intelligence Artificielle
+
+C'est une filière particulièrement orientée mathématiques, statistiques, informatique et économie. L'ISPM indique explicitement que les diplômés peuvent travailler notamment dans les banques, entreprises industrielles et entreprises commerciales.
+
+Débouchés
+
+Statistiques
+
+Statisticien
+Statisticien d'entreprise
+Analyste statistique
+Chargé d'études statistiques
+
+Data
+
+Data Analyst
+Data Scientist (avec spécialisation)
+Data Engineer junior
+Business Intelligence Analyst
+BI Developer
+
+Finance
+
+Analyste financier
+Risk Analyst
+Credit Analyst
+Quantitative Analyst junior
+Analyste bancaire
+
+Économie
+
+Économiste
+Chargé d'études économiques
+Analyste économique
+Analyste de marché
+
+IA
+
+AI Engineer
+Machine Learning Engineer
+Data Scientist
+AI Developer
+
+Entreprises
+
+Business Analyst
+Market Analyst
+Consultant data
+Consultant BI
+5. 🏭 EMII
+
+Électro-Mécanique et Informatique Industrielle
+
+L'ISPM indique que cette filière combine mécanique, technologies industrielles, informatique et informatique industrielle, avec un objectif de participation au développement industriel.
+
+Débouchés
+
+Électromécanique
+
+Ingénieur électromécanique
+Technicien électromécanique
+Ingénieur maintenance industrielle
+Technicien maintenance industrielle
+
+Automatisation
+
+Automaticien
+Ingénieur automatisme
+Technicien automatisme
+Control Systems Engineer
+
+Industrie
+
+Ingénieur industriel
+Ingénieur production
+Responsable production
+Technicien production
+
+Informatique industrielle
+
+Ingénieur informatique industrielle
+Industrial IT Engineer
+Automation Engineer
+SCADA Engineer
+
+Maintenance
+
+Responsable maintenance
+Ingénieur maintenance
+Technicien maintenance
+
+Énergie
+
+Ingénieur systèmes énergétiques
+Technicien électrotechnique
+6. 🧪 ICMP
+
+Industries Chimiques, Minières et Pétrolières
+
+Cette filière est destinée aux domaines chimique, minier et pétrolier.
+
+Débouchés
+
+Industrie chimique
+
+Ingénieur chimiste
+Technicien chimiste
+Ingénieur procédés
+Process Engineer
+Responsable laboratoire
+
+Mines
+
+Ingénieur minier
+Ingénieur exploitation minière
+Technicien minier
+Responsable production minière
+Géotechnicien (selon spécialisation)
+
+Pétrole
+
+Ingénieur pétrolier
+Petroleum Engineer
+Technicien pétrolier
+Process Engineer
+Production Engineer
+
+Laboratoire
+
+Analyste laboratoire
+Technicien laboratoire
+Responsable contrôle qualité
+
+HSE
+
+Responsable HSE
+HSE Engineer
+Safety Officer
+Environmental Officer
+7. 🏗️ GCA
+
+Génie Civil et Architecture
+
+L'ISPM indique que la formation vise notamment les infrastructures et l'aménagement urbain et rural.
+
+Débouchés
+
+Construction
+
+Ingénieur génie civil
+Technicien génie civil
+Conducteur de travaux
+Chef de chantier
+Ingénieur construction
+
+Architecture
+
+Architecte (selon les conditions légales d'exercice)
+Assistant architecte
+Concepteur architectural
+Dessinateur-projeteur
+
+Bâtiment
+
+Ingénieur bâtiment
+Responsable travaux
+Métreur
+Économiste de la construction
+
+Infrastructures
+
+Ingénieur infrastructures
+Ingénieur routes
+Ingénieur ouvrages
+Ingénieur hydraulique (avec spécialisation)
+
+Urbanisme
+
+Urbaniste
+Assistant urbaniste
+Chargé d'aménagement urbain
+
+Bureau d'études
+
+Ingénieur études
+Dessinateur-projeteur
+BIM Modeler (avec formation complémentaire)
+BIM Coordinator (avec expérience)
+8. 🛒 CAA
+
+Commerce et Administration des Affaires
+
+L'ISPM présente cette formation autour du marketing, des techniques commerciales, de l'organisation et du management des entreprises.
+
+Débouchés
+
+Commerce
+
+Commercial
+Business Developer
+Sales Manager
+Responsable commercial
+Account Manager
+Key Account Manager
+
+Marketing
+
+Responsable marketing
+Marketing Officer
+Brand Manager
+Product Manager
+Market Research Analyst
+
+Administration
+
+Administrateur d'entreprise
+Assistant administratif
+Responsable administratif
+Office Manager
+
+Management
+
+Manager
+Responsable d'équipe
+Entrepreneur
+Consultant en management
+
+Digital
+
+Digital Marketing Specialist
+Community Manager
+E-commerce Manager
+9. 💰 FIC
+
+Finances et Comptabilités
+
+L'ISPM présente FIC comme une formation aux techniques quantitatives de gestion des entreprises, particulièrement finance et comptabilité.
+
+Débouchés
+
+Comptabilité
+
+Comptable
+Assistant comptable
+Responsable comptable
+Chef comptable
+
+Finance
+
+Analyste financier
+Financial Analyst
+Gestionnaire financier
+Responsable financier
+
+Audit
+
+Auditeur financier
+Auditeur interne
+Contrôleur interne
+
+Contrôle
+
+Contrôleur de gestion
+Financial Controller
+
+Banque
+
+Chargé de clientèle bancaire
+Analyste crédit
+Risk Analyst
+Conseiller bancaire
+
+Fiscalité
+
+Fiscaliste
+Assistant fiscal
+Consultant fiscal
+
+Direction
+
+Directeur financier (avec expérience)
+CFO (avec expérience)
+10. ⚖️ DTJA
+
+Droit et Techniques Juridiques des Affaires
+
+L'ISPM indique que cette filière forme des juristes maîtrisant les techniques juridiques nationales et internationales, avec des débouchés dans l'administration publique et les entreprises privées.
+
+Débouchés
+
+Juridique
+
+Juriste d'entreprise
+Juriste en droit des affaires
+Juriste international
+Conseiller juridique
+Assistant juridique
+
+Entreprise
+
+Legal Officer
+Contract Manager
+Compliance Officer
+Responsable juridique
+
+Administration
+
+Juriste administratif
+Cadre administratif
+Conseiller juridique dans l'administration
+
+Banque / finance
+
+Juriste bancaire
+Juriste financier
+Compliance Analyst
+
+Droit commercial
+
+Juriste commercial
+Contract Specialist
+
+⚠️ Pour les professions réglementées comme avocat, notaire, magistrat, huissier, le diplôme seul ne suffit généralement pas : des conditions légales, concours, stages ou formations complémentaires peuvent être nécessaires.
+
+11. 📈 EMP
+
+Économie et Management de Projet
+
+L'ISPM indique que cette filière forme des économistes capables de réaliser des analyses économiques objectives et de les appliquer aux réalités des entreprises.
+
+Débouchés
+
+Économie
+
+Économiste
+Analyste économique
+Chargé d'études économiques
+Conseiller économique
+
+Management
+
+Manager
+Management Consultant
+Business Analyst
+
+Projet
+
+Chef de projet
+Project Manager
+Project Coordinator
+PMO Analyst
+Responsable programme
+
+Entreprises
+
+Business Developer
+Strategy Analyst
+Market Analyst
+
+Institutions
+
+Chargé de programme
+Chargé de mission
+Analyste de politiques publiques
+
+ONG
+
+Project Officer
+Programme Officer
+Monitoring & Evaluation Officer
+12. 🍎 IAA
+
+Industrie Agroalimentaire
+
+L'objectif affiché par l'ISPM est notamment de former des cadres pour les entreprises agroalimentaires.
+
+Débouchés
+
+Production
+
+Ingénieur agroalimentaire
+Responsable production
+Responsable usine
+Technicien agroalimentaire
+
+Qualité
+
+Quality Control Officer
+Quality Assurance Officer
+Responsable qualité
+
+Laboratoire
+
+Technicien laboratoire
+Analyste laboratoire
+
+R&D
+
+Ingénieur R&D
+Food Scientist
+Technicien recherche
+
+Sécurité alimentaire
+
+Food Safety Officer
+Responsable hygiène et sécurité alimentaire
+
+Production / transformation
+
+Responsable transformation alimentaire
+Process Engineer
+
+Entrepreneuriat
+
+Entrepreneur agroalimentaire
+Responsable PME agroalimentaire
+13. 🌱 AEE
+
+Agriculture et Élevage
+
+L'ISPM insiste sur l'application des techniques et technologies modernes au monde rural et sur l'agri-business.
+
+Débouchés
+
+Agriculture
+
+Ingénieur agronome
+Technicien agricole
+Conseiller agricole
+Responsable exploitation agricole
+
+Élevage
+
+Responsable élevage
+Technicien élevage
+Conseiller en élevage
+
+Agrobusiness
+
+Business Developer agricole
+Responsable agrobusiness
+Entrepreneur agricole
+Gestionnaire d'exploitation agricole
+
+ONG / développement rural
+
+Project Officer
+Conseiller développement rural
+Chargé de programme agricole
+
+Production
+
+Responsable production agricole
+Responsable ferme
+Farm Manager
+
+Coopératives
+
+Responsable coopérative agricole
+Conseiller organisation paysanne
+14. 💊 PIP
+
+Pharmacologie et Industries Pharmaceutiques
+
+L'ISPM indique notamment vouloir exploiter scientifiquement les propriétés thérapeutiques des plantes médicinales endémiques de Madagascar.
+
+Débouchés
+
+Industrie pharmaceutique
+
+Technicien pharmaceutique industriel
+Responsable production pharmaceutique
+Quality Control Officer
+Quality Assurance Officer
+
+Laboratoire
+
+Technicien laboratoire
+Analyste laboratoire
+Assistant R&D
+
+Recherche
+
+Assistant de recherche
+Chercheur (avec poursuite d'études)
+
+Pharmacologie
+
+Assistant pharmacologie
+Technicien pharmacologique
+
+Phytothérapie / plantes
+
+Technicien en valorisation des plantes médicinales
+R&D phytopharmaceutique
+
+⚠️ Là encore, pharmacien est une profession réglementée : un parcours PIP ne signifie pas automatiquement que le diplômé peut exercer comme pharmacien.
+
+15. ⛏️ ICMP
+
+Je la sépare car son champ professionnel est suffisamment large.
+
+Chimie
+Ingénieur chimiste
+Technicien chimiste
+Process Engineer
+Responsable laboratoire
+Contrôleur qualité
+Mines
+Ingénieur minier
+Mining Engineer
+Technicien minier
+Mine Operations Officer
+Responsable exploitation
+Pétrole
+Petroleum Engineer
+Production Engineer
+Process Engineer
+Oil & Gas Technician
+Environnement / sécurité
+HSE Engineer
+Environmental Officer
+Safety Officer
+Environmental Consultant
+Gestion industrielle
+Responsable production
+Responsable procédés
+Responsable maintenance industrielle
+16. 🌍 TEE
+
+Tourisme et Environnement
+
+L'ISPM présente TEE comme une formation combinant tourisme, environnement, patrimoine naturel et civilisation malgache, avec pour objectif de former des professionnels du secteur touristique.
+
+Débouchés
+
+Tourisme
+
+Agent de voyage
+Travel Consultant
+Tour Operator
+Travel Planner
+Guide touristique
+Accompagnateur touristique
+
+Hôtellerie / tourisme
+
+Tourism Manager
+Responsable agence de voyage
+Responsable touristique
+
+Environnement
+
+Environmental Officer
+Chargé de mission environnement
+Conseiller environnement
+
+Écotourisme
+
+Responsable écotourisme
+Coordinateur écotouristique
+Gestionnaire de site touristique
+
+Patrimoine
+
+Guide culturel
+Médiateur culturel
+Chargé de valorisation du patrimoine
+
+ONG
+
+Project Officer environnement
+Chargé de développement communautaire
+17. 🏨 TEH
+
+Tourisme et Hôtellerie
+
+Cette filière ajoute au tourisme une forte orientation vers l'hôtellerie et les techniques culinaires, y compris nationales et internationales.
+
+Débouchés
+
+Hôtellerie
+
+Réceptionniste
+Front Office Manager
+Hôtel Manager
+Hotel Operations Manager
+Responsable hébergement
+
+Restauration
+
+Restaurant Manager
+Responsable restauration
+Chef de cuisine
+Sous-chef
+Responsable banquet
+
+Tourisme
+
+Travel Consultant
+Agent de voyage
+Tour Operator
+Guide touristique
+
+Événementiel
+
+Event Coordinator
+Event Manager
+Wedding Planner
+
+Management
+
+Hospitality Manager
+Resort Manager
+Guest Relations Manager
+
+Entrepreneuriat
+
+Gérant d'hôtel
+Gérant de restaurant
+Entrepreneur touristique
